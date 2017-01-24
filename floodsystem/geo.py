@@ -44,6 +44,7 @@ def stations_by_river(stations):
     #create empty dictionary
     river_dict={}
     
+    #if river key exists, add station name. otherwise, make new river key.
     for station in stations:
         if station.river in river_dict:
             river_dict[station.river].append(station.name)
@@ -51,9 +52,11 @@ def stations_by_river(stations):
             river_dict[station.river] = [station.name]
     return river_dict
 
+#running the demo program
 dict_fordemo = stations_by_river(stations)
-sorted_dict_fordemo = sorted_by_key(dict_fordemo.values(), 0)
-print(dict_fordemo)
+print(sorted(dict_fordemo["River Aire"]))
+print(sorted(dict_fordemo["River Cam"]))
+print(sorted(dict_fordemo["Thames"]))
 
 
     
