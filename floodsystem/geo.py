@@ -3,14 +3,13 @@ geographical data.
 
 """
 from floodsystem.stationdata import build_station_list
-from floodsystem.utils import sorted_by_key
+#from floodsystem.utils import sorted_by_key
 from operator import itemgetter
-from collections import OrderedDict
 
 stations = build_station_list()
 
 def rivers_with_station(stations):
-    """Builds a set of names of rivers with monitoring stations"""
+    """Builds a set of rivers with monitoring stations"""
     
     #create an empty set (since river names are repeated)
     rivers=set()
@@ -39,7 +38,8 @@ print(first_ten_rivers)
 
 
 def stations_by_river(stations):
-    """Builds a dictionary with river names as keys that map to all the stations on the river"""
+    """Builds a dictionary with river names as keys that map to all the 
+    stations on the river"""
     
     #create empty dictionary
     river_dict={}
@@ -57,6 +57,37 @@ dict_fordemo = stations_by_river(stations)
 print(sorted(dict_fordemo["River Aire"]))
 print(sorted(dict_fordemo["River Cam"]))
 print(sorted(dict_fordemo["Thames"]))
+
+def rivers_by_station_number(stations, N):
+    """Determines the N rivers with the greatest number of stations. 
+    If there are more rivers with same number of stations as Nth, then
+    they are included as well"""
+    
+    #create the empty list
+    river_stationnumbers = []
+    
+    #iterate over all entries in the dictionary from Task 1D
+    for river, stations in stations.items():
+        river_tuple = (river, len(stations)) #make tuples
+        river_stationnumbers.append(river_tuple) #add tuples into list
+        
+    #sort the list in decreasing order by the value of the second tuple entry (station number)
+    sorted_river_stationnumbers = sorted(river_stationnumbers, key=lambda tup: tup[1], reverse=True)
+    
+    #slice N first values
+    first_N = sorted_river_stationnumbers[:N]
+    
+    #from remainder of list, add in any extra rivers that have same station number
+    for i in sorted_river_stationnumbers:
+        if i in first_N:
+            pass
+        elif i[1] == first_N[-1][1]:
+            first_N.append(i)
+            
+
+    return first_N
+    
+    
 
 
     
