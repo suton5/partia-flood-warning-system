@@ -27,27 +27,27 @@ class MonitoringStation:
         
     #using property decorators to prevent accidental
     #changes from occuring to the attributes
-    @property
-    def station_id(self):
-        return self.station_id
-    @property
-    def measure_id(self):
-        return self.measure_id
-    @property
-    def label(self):
-        return self.name
-    @property
-    def coord(self):
-        return self.coord
-    @property
-    def typical_range(self):
-        return self.typical_range
-    @property
-    def river(self):
-        return self.river
-    @property
-    def town(self):
-        return self.town
+    #@property
+    #def station_id(self):
+     #   return self.station_id
+    #@property
+    #def measure_id(self):
+     #   return self.measure_id
+    #@property
+    #def label(self):
+     #   return self.name
+    #@property
+    #def coord(self):
+     #   return self.coord
+    #@property
+    #def typical_range(self):
+     #   return self.typical_range
+    #@property
+    #def river(self):
+     #   return self.river
+    #@property
+    #def town(self):
+     #   return self.town
 
     def __repr__(self):
         d = "Station name:     {}\n".format(self.name)
