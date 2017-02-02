@@ -3,37 +3,31 @@ geographical data.
 
 """
 from floodsystem.stationdata import build_station_list
-<<<<<<< HEAD
 from haversine import haversine
 from floodsystem.utils import sorted_by_key
-
-
-    
-#create an empty list, and then append later on
-liststations = []
 
 #create a list of stations
 stations = build_station_list()
 
 
-
-
         
 #define a function
 def stations_by_distance(stations, p):
-    
+    """for all the stations in the list, extract the 2 attributes, name and 
+    coordinates, and then append them into an empty list, liststations. Then
+    find the distance between an arbitrary point with the individual station
+    coordinate. Then, sort the list by the second element"""
+    #create an empty list, and then append later on
+    liststations = []
+
     for station in stations:
         distance = haversine(p, station.coord)
         liststations.append((station.name, distance))
-        
-    return liststations
-        
-print(stations_by_distance(stations, (52.2053, 0.1218)))
-=======
-#from floodsystem.utils import sorted_by_key
-from operator import itemgetter
+    
 
-stations = build_station_list()
+    sorted=sorted_by_key(liststations, 1)
+    return sorted
+
 
 def rivers_with_station(stations):
     """Builds a set of rivers with monitoring stations"""
@@ -114,9 +108,3 @@ def rivers_by_station_number(stations, N):
 
     return first_N
     
-    
-
-
-    
-
->>>>>>> 785a697c78136b56bc1a5d3a4519ab06c56f9777
