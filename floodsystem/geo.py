@@ -19,7 +19,7 @@ def stations_by_distance(stations, p):
     coordinate. Then, sort the list by the second element"""
     #create an empty list, and then append later on
     liststations = []
-
+    
     for station in stations:
         distance = haversine(p, station.coord)
         liststations.append((station.name, distance))
