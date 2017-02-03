@@ -28,6 +28,41 @@ def stations_by_distance(stations, p):
     sorted=sorted_by_key(liststations, 1)
     return sorted
 
+    
+
+def stations_within_radius(stations, centre, r):
+   
+    x = stations_by_distance(stations, centre)
+    newlist = []
+    for i in x:
+        if i[1] <= r:
+            newlist.append(i[0])
+        else:
+            pass
+        
+    return newlist
+    
+
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 def rivers_with_station(stations):
     """Builds a set of rivers with monitoring stations"""
