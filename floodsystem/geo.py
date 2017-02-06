@@ -31,7 +31,8 @@ def stations_by_distance(stations, p):
     
 
 def stations_within_radius(stations, centre, r):
-   
+    """use the previous function here, then use an operator to find the stations 
+    within a certain radius from a centre point"""
     x = stations_by_distance(stations, centre)
     newlist = []
     for i in x:
@@ -42,28 +43,8 @@ def stations_within_radius(stations, centre, r):
         
     return newlist
     
-
-            
+ 
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
 def rivers_with_station(stations):
     """Builds a set of rivers with monitoring stations"""
     
@@ -121,9 +102,10 @@ def rivers_by_station_number(stations, N):
     
     #create the empty list
     river_stationnumbers = []
+    dict = stations_by_river(stations)
     
     #iterate over all entries in the dictionary from Task 1D
-    for river, stations in stations.items():
+    for river, stations in dict.items():
         river_tuple = (river, len(stations)) #make tuples
         river_stationnumbers.append(river_tuple) #add tuples into list
         

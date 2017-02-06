@@ -7,7 +7,8 @@ Created on Wed Jan 25 22:51:40 2017
 """
 
 from floodsystem.geo import rivers_by_station_number
-from floodsystem.geo import dict_fordemo
+from floodsystem.geo import stations
+
 
 #for demo
-print(rivers_by_station_number(dict_fordemo, 9))
+print(rivers_by_station_number((stations), 9))
