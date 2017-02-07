@@ -1,14 +1,77 @@
 """Unit test for the geo module"""
 
 import pytest
+from floodsystem.geo import stations_by_distance 
+from floodsystem.stationdata import build_station_list
+from floodsystem.geo import stations_within_radius
 from floodsystem.geo import rivers_with_station
 from floodsystem.geo import rivers_by_station_number
 from floodsystem.geo import stations_by_river
-from floodsystem.stationdata import build_station_list
 from floodsystem.station import MonitoringStation
+from haversine import haversine
 
 
 station_list = build_station_list()
+
+def test_stations_by_distance():
+    
+    """ to test if the function sorts the list by distance"""
+    stations = build_station_list()
+
+    newlist = stations_by_distance(stations, (52.2053, 0.1218))
+    for i in range(len(newlist)-1):
+        if newlist[i][1] <= newlist[i+1][1]:
+            check = True
+            
+        else:
+            check = False
+            
+        assert check == True
+        
+        
+    """to test if the elements in the list are tuples"""
+    
+    for i in newlist:
+        assert type(i) == tuple
+
+
+def test_stations_within_radius():
+    stations = build_station_list()
+    testlist = stations_within_radius(stations, (52.2053, 0.1218), 10)
+    #the first 2 coordinates are around cambridge centre, last 2 coordinates
+    #are in Germany
+    samples = [(52.176734, 0.120083), (52.183625, 0.09323), (51.463206, 7.363607), (51.892385, 13.329183)]
+    for i in testlist:
+        assert type(i) == str
+
+
+    if haversine((52.2053, 0.1218), samples[0]) <= 10:
+        check = True
+    else:
+        check = False
+
+    assert check == True
+
+    if haversine((52.183625, 0.09323), samples[0]) <= 10:
+        check = True
+    else:
+        check = False
+
+    assert check == True
+
+    if haversine((51.463206, 7.363607), samples[0]) <= 10:
+        check = True
+    else:
+        check = False
+
+    assert check == False
+
+    if haversine((51.892385, 13.329183), samples[0]) <= 10:
+        check = True
+    else:
+        check = False
+
+    assert check == False
 
 def test_rivers_with_station():
     """Test rivers_with_station()"""
