@@ -26,7 +26,7 @@ def test_create_monitoring_station():
     
 def test_inconsistent_typical_range_stations():
     
-    # Create test station 1
+    # Create test station 1 (missing data)
     s_id1 = "test-s-id1"
     m_id1 = "test-m-id1"
     label1 = "some station1"
@@ -36,7 +36,7 @@ def test_inconsistent_typical_range_stations():
     town1 = "My Town1"
     s1 = MonitoringStation(s_id1, m_id1, label1, coord1, trange1, river1, town1)
     
-    # Create test station 2
+    # Create test station 2 (swapped range)
     s_id2 = "test-s-id2"
     m_id2 = "test-m-id2"
     label2 = "some station2"
@@ -46,7 +46,7 @@ def test_inconsistent_typical_range_stations():
     town2 = "My Town2"
     s2 = MonitoringStation(s_id2, m_id2, label2, coord2, trange2, river2, town2)
     
-    # Create test station 3
+    # Create test station 3 (correct range)
     s_id3 = "test-s-id3"
     m_id3 = "test-m-id3"
     label3 = "some station3"

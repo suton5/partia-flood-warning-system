@@ -78,7 +78,7 @@ def test_rivers_with_station():
     rivers = rivers_with_station(station_list)
     assert len(rivers) > 0
 
-    # Create test station 1
+    # Create test station 1 (correct data)
     s_id1 = "test-s-id1"
     m_id1 = "test-m-id1"
     label1 = "some station1"
@@ -88,7 +88,7 @@ def test_rivers_with_station():
     town1 = "My Town1"
     s1 = MonitoringStation(s_id1, m_id1, label1, coord1, trange1, river1, town1)
     
-    # Create test station 2
+    # Create test station 2 (missing river data)
     s_id2 = "test-s-id2"
     m_id2 = "test-m-id2"
     label2 = "some station2"
@@ -107,7 +107,7 @@ def test_stations_by_river():
     river_dict = stations_by_river(station_list)
     assert len(river_dict) > 0
 
-    # Create test station 1
+    # Create test station 1 (same river)
     s_id1 = "test-s-id1"
     m_id1 = "test-m-id1"
     label1 = "some station1"
@@ -117,7 +117,7 @@ def test_stations_by_river():
     town1 = "My Town1"
     s1 = MonitoringStation(s_id1, m_id1, label1, coord1, trange1, river1, town1)
     
-    # Create test station 2
+    # Create test station 2 (same river)
     s_id2 = "test-s-id2"
     m_id2 = "test-m-id2"
     label2 = "some station2"
@@ -127,7 +127,7 @@ def test_stations_by_river():
     town2 = "My Town2"
     s2 = MonitoringStation(s_id2, m_id2, label2, coord2, trange2, river2, town2)
     
-    # Create test station 3
+    # Create test station 3 (different river)
     s_id3 = "test-s-id3"
     m_id3 = "test-m-id3"
     label3 = "some station3"
@@ -147,7 +147,10 @@ def test_rivers_by_station_number():
     first_N = rivers_by_station_number(station_list, 9)
     assert len(first_N) > 0
 
-    # Create test station 1
+    # Set up the stations such that 3 have the same rivers, 2 have the same 
+    # rivers and the last two have  different rivers
+    
+    # Create test station 1 
     s_id1 = "test-s-id1"
     m_id1 = "test-m-id1"
     label1 = "some station1"
@@ -219,8 +222,11 @@ def test_rivers_by_station_number():
     
     test_list = [s1, s2, s3, s4, s5, s6, s7]
 
+    # Should return 1 , since only 1 river has 3 stations
     first_N_test_1 = rivers_by_station_number(test_list, 1)
+    # Should return 2 , since the 2 highest rivers have 3 and 2 stations, respectively
     first_N_test_2 = rivers_by_station_number(test_list, 2)
+    # Should return 4 , since the last 2 rivers both have only 1 station
     first_N_test_3 = rivers_by_station_number(test_list, 3)
     
     assert len(first_N_test_1) == 1
