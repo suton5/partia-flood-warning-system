@@ -12,22 +12,53 @@ from floodsystem.flood import stations_highest_rel_level, stations_level_over_th
 
 
 #test for 2B
+def test_stations_level_over_threshold():
+    """assign relative water levels to certain stations, and make the latest levels at
+    all other stations extremely high, so that the relative water level is definitely
+    higher than the tolerance, but in a list. see if the function prints the list"""
+    stations = build_station_list()
 
+    for station in stations:
+        
+        
+        if station.name == "Cam":
+            station.relative_water_level = 0.5
+            
+        elif station.name == "Girton":
+            station.relative_water_level = 1.0
 
+        elif station.name == "Bourton Dickler":
+            station.relative_water_level = 1.2
 
-
-
-
-
-
-
+        elif station.name == "Norlands":
+            station.relative_water_level = 1.4
+            
+        elif station.name == "Topsham":
+            station.relative_water_level = 0.6
+            
+        elif station.name == "Pocklington":
+            station.relative_water_level = None 
+       
+            
+        x = stations_level_over_threshold(stations, 0.8)
+        
+        if x == [("Norlands", 1.4), ("Bourton Dickler", 1.2), ("Girton", 1.0)]:
+            True
+            
+        else:
+            False
+            
+        assert True
+        
+            
+            
 
 
 #test for 2C
 def test_stations_highest_rel_level():
-    """assign latest levels to a few stations in the list, and make all the other
-    stations have a latest level of 0, test if the function returns what it was asked to
-    """
+    #assign latest levels to a few stations in the list, and make all the other
+    #stations have a latest level of 0, test if the function returns what it was asked to
+    
     #stations = ["Cam", "Girton", "Bourton Dickler", "Norlands", "Topsham" ]
     stations = build_station_list()
 
@@ -35,27 +66,27 @@ def test_stations_highest_rel_level():
     for station in stations:
         
         if station == "Cam":
-            station.latest_level = 0.1
+            station.relative_water_level = 0.5
             
         elif station.name == "Girton":
-            station.latest_level = 0.2
+            station.relative_water_level = 1.0
 
         elif station.name == "Bourton Dickler":
-            station.latest_level = 0.3
+            station.relative_water_level = 1.2
 
         elif station.name == "Norlands":
-            station.latest_level = 1.0
+            station.relative_water_level = 1.4
             
-        elif station.name == "Topsham":
-            station.latest_level = None
+        elif station.name == "Topsham": 
+            station.relative_water_level = 0.6
             
         else:
-            station.latest_level = 0
+            station.latest_level = [1000,500]
 
     
         x = stations_highest_rel_level(stations, 3)
         
-        if x == [("Norlands", 1.0), ("Bourton Dickler", 0.3), ("Girton", 0.2)]:
+        if x == [("Norlands", 1.4), ("Dickler", 1.2), ("Girton", 1.0)]:
             
             True
         
@@ -66,7 +97,6 @@ def test_stations_highest_rel_level():
         assert True
         
         
-        
-    
+
     
 
