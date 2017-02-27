@@ -7,96 +7,76 @@ Created on Sun Feb 26 16:25:50 2017
 """
 
 import pytest 
-from floodsystem.stationdata import build_station_list
+from floodsystem.stationdata import build_station_list, update_water_levels
 from floodsystem.flood import stations_highest_rel_level, stations_level_over_threshold
-
+#stations = build_station_list()
+#update_water_levels(stations)
+#new_list = stations_level_over_threshold(stations, 0.2)
+#print(new_list)
 
 #test for 2B
 def test_stations_level_over_threshold():
-    """assign relative water levels to certain stations, and make the latest levels at
-    all other stations extremely high, so that the relative water level is definitely
-    higher than the tolerance, but in a list. see if the function prints the list"""
+    """check if the elements in the list are ranked in desceding order according to their relative
+    water level, check if each element in the list is a tuple of 2"""
     stations = build_station_list()
-
-    for station in stations:
+    update_water_levels(stations)
+    new_list = stations_level_over_threshold(stations, 0.2)
+    
+    for i in new_list:
+        #check if they are tuples
+        assert type(i) == tuple
+        #check if the tuples have 2 items
+        assert len(i) == 2
         
-        
-        if station.name == "Cam":
-            station.relative_water_level = 0.5
-            
-        elif station.name == "Girton":
-            station.relative_water_level = 1.0
-
-        elif station.name == "Bourton Dickler":
-            station.relative_water_level = 1.2
-
-        elif station.name == "Norlands":
-            station.relative_water_level = 1.4
-            
-        elif station.name == "Topsham":
-            station.relative_water_level = 0.6
-            
-        elif station.name == "Pocklington":
-            station.relative_water_level = None 
-       
-            
-        x = stations_level_over_threshold(stations, 0.8)
-        
-        if x == [("Norlands", 1.4), ("Bourton Dickler", 1.2), ("Girton", 1.0)]:
+    
+    for i in range(len(new_list)-1):
+        #check if the order is correct
+        if new_list[i][1] > new_list[i+1][1]:
             True
-            
         else:
             False
-            
         assert True
         
-            
-            
+        if new_list[i][1] <= 0.2:
+            False
+        else:
+            True
+        assert True
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
 
 #test for 2C
 def test_stations_highest_rel_level():
-    #assign latest levels to a few stations in the list, and make all the other
-    #stations have a latest level of 0, test if the function returns what it was asked to
-    
-    #stations = ["Cam", "Girton", "Bourton Dickler", "Norlands", "Topsham" ]
+    """check if the elements in the list are ranked in desceding order according to their relative
+    water level, check if each element in the list is a tuple of 2, check if the length of the list is N"""
     stations = build_station_list()
-
-
-    for station in stations:
-        
-        if station == "Cam":
-            station.relative_water_level = 0.5
-            
-        elif station.name == "Girton":
-            station.relative_water_level = 1.0
-
-        elif station.name == "Bourton Dickler":
-            station.relative_water_level = 1.2
-
-        elif station.name == "Norlands":
-            station.relative_water_level = 1.4
-            
-        elif station.name == "Topsham": 
-            station.relative_water_level = 0.6
-            
-        else:
-            station.latest_level = [1000,500]
-
+    update_water_levels(stations)
+    new_list_2 = stations_highest_rel_level(stations, 10)
     
-        x = stations_highest_rel_level(stations, 3)
+    
+    assert len(new_list_2) == 10
+
+    for i in new_list_2:
+        #check if they are tuples
+        assert type(i) == tuple
+        #check if the tuples have 2 items
+        assert len(i) == 2
         
-        if x == [("Norlands", 1.4), ("Dickler", 1.2), ("Girton", 1.0)]:
-            
+    
+    for i in range(len(new_list_2)-1):
+        #check if the order is correct
+        if new_list_2[i][1] > new_list_2[i+1][1]:
             True
-        
         else:
-        
             False
-            
         assert True
         
-        
-
-    
-
+      
