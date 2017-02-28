@@ -1,0 +1,1813 @@
+Station,Lat,Long,Town,River,Water Level
+Bourton Dickler,51.874767,-1.740083,Little Rissington,Dikler,0.214
+Surfleet Sluice,52.845991,-0.100848,Surfleet Seas End,River Glen,0.784
+Gaw Bridge,50.976043,-2.793549,Kingsbury Episcopi,River Parrett,0.294
+Hemingford,52.323618,-0.101287,Hemingford Grey,River Great Ouse,0.206
+Swindon,52.51274,-2.205945,Swindon,Smestow Brook,1.657
+A6 Bridge,53.858854,-2.743276,Bilsborrow,Brock,0.434
+Hatterell Bridge,50.965045,-0.323238,West Grinstead,Adur,1.42
+Netherside Hall,54.080705,-2.024779,Netherside Hall,River Wharfe,1.019
+Ardingly,51.038451,-0.100268,Ardingly,Ouse [So],0.39
+Letcombe Regis,51.571482,-1.449342,Letcombe Regis,Letcombe Brook,0.052
+Bradley Bridge,51.521892,-2.521122,Winterbourne,Bradley Brook,0.155
+Lovington,51.083697,-2.586936,Lovington,River Brue,0.296
+Goulceby,53.296901,-0.131922,Goulceby,Bain,0.139
+Northern Moor,53.407591,-2.294665,Northern Moor,Baguley Brook,0.361
+Collyhurst Weir,53.493682,-2.229815,Manchester,Irk,0.353
+Haslingfield Burnt Mill,52.151539,0.067146,Haslingfield,River Rhee,0.183
+"Pinner, Eastcote Road",51.589297,-0.381167,Pinner,Pinn,0.589
+Pickering,54.246377,-0.778392,Pickering,Pickering Beck,0.202
+Chineham,51.296962,-1.056426,Chineham,Petty's Brook,0.289
+"Luton, Toddington Road",51.908463,-0.46427,Leagrave,Lee (Upper),0.071
+Salisbury Ashley Road,51.076527,-1.803528,Salisbury,River Avon,0.337
+Yeaton,52.76777,-2.839715,Yeaton,River Perry,0.315
+Kingston,51.415005,-0.308869,Kingston Upon Thames,Thames,4.641
+"Addingham, Town Beck",53.944393,-1.886441,Addingham,River Wharfe,0.196
+Newbridge Weir B,51.713499,-1.420988,Standlake,Windrush,0.194
+Litton Cheney,50.710758,-2.638832,Litton Cheney,Litton Cheney Stream,0.159
+Rede Bridge,55.142955,-2.208614,Redesmouth,River Rede,0.759
+Rochdale ETW,53.611067,-2.178685,Rochdale,Roch,0.517
+Twyford Bridge,53.26962,-0.952008,Elkesley,River Poulter,0.698
+Rolster Bridge,50.393426,-3.73051,Harbertonford,River Harbourne,0.23
+Bragbury Park,51.874477,-0.149495,Bragbury End,Stevenage Brook,0.145
+Lugwardine,52.061919,-2.659977,Lugwardine,Lugg,1.487
+Fleet Pumping Station,53.851912,-1.157795,Ryther,River Wharfe,5.266
+Darfield Bridge,53.536358,-1.366253,Darfield,River Dearne,0.512
+Merrywalks,51.746918,-2.217953,Stroud,Slad Brook,0.245
+Great Glen,52.574167,-1.035067,Great Glen,River Sence (Soar),0.953
+Prestbury,53.289231,-2.148611,Prestbury,Bollin,0.534
+Victoria Bridge - New,54.330571,-2.742287,"Victoria Bridge, Kendal",River Kent,1.517
+Bitton,51.426965,-2.459703,Bitton,River Boyd,0.294
+Walford Mill,50.805852,-1.990007,Wimborne Minster,River Allen,0.363
+Dawlish,50.580497,-3.472207,Dawlish,Dawlish Water,0.208
+Aston Bridge,52.877141,-1.759128,Sudbury,River Dove,1.599
+Claypole,53.022669,-0.746145,Claypole,Upper Witham,0.242
+Little Alne,52.247533,-1.793996,Little Alne,River Alne,0.953
+Alwinton Bridge,55.344803,-2.122952,Alwinton,River Coquet,0.495
+Heacham,52.908305,0.504442,Heacham,Heacham River,0.094
+Rewe,50.782406,-3.496159,Rewe,River Culm,0.39
+Kirkburton Riley Lane,53.60958,-1.705229,Kirkburton,Dean Bottom Beck,0.124
+Brigg,53.550068,-0.501979,Brigg,Ancholme,0.382
+North America,53.7781,-0.713178,North America,Market Weighton Canel,-0.087
+Romanby,54.336432,-1.450586,Romanby,Willow Beck,0.218
+Hungerford Shalbourne,51.412847,-1.526019,Hungerford,River Shalbourne,0.102
+Temple Sowerby,54.648336,-2.614388,Temple Sowerby,Eden,1.231
+Highbridge weir,50.990287,-1.335564,Colden Common,Itchen,0.421
+"Walthamstow, Low Hall",51.574894,-0.043637,Walthamstow,Lee (Lower),0.223
+Denton Holme,54.885739,-2.937513,Carlisle,Caldew,0.786
+Sinnington,54.262449,-0.859287,Sinnington,River Seven,0.494
+Worsbrough,53.526193,-1.473913,Worsbrough,River Dove,0.116
+Ulpha,54.341859,-3.218047,Hall Dunnerdale,Duddon,0.6
+Slea Tilting Gate,52.998853,-0.408576,Sleaford,Slea,0.367
+Bristol Harbour Passage Street,51.45411,-2.586653,Bristol Harbour Passage Street,Bristol Frome,
+Copley Bridge,53.697959,-1.873488,Copley,River Calder,
+Denham Colne,51.56631,-0.483905,Denham,Colne,0.169
+Lenton,52.948176,-1.183337,Lenton,River Leen,0.169
+Worcester (Barbourne),52.206967,-2.235272,Worcester,River Severn,1.605
+Allen Mill Bridge,54.904713,-2.265082,Allendale Town,River East Allen,0.376
+Scotter,53.498488,-0.664311,Scotter,River Eau,0.305
+Eamont Bridge Farm,54.651055,-2.743236,Eamont Bridge,River Eamont,1.03
+Harford Hill,52.255374,-2.193909,Salwarpe,River Salwarpe,0.281
+Far Sawrey,54.352722,-2.940028,Mitchell Wyke Ferry Bay,Lake Windermere,1.08
+Skip Bridge,53.998678,-1.266199,Kirk Hammerton,River Nidd,2.355
+St Michaels,53.863761,-2.817872,St Michael's On Wyre,Wyre,0.76
+Laverstock,51.072524,-1.77754,Laverstock,River Bourne,0.24
+Chingford,51.619051,0.008836,Chingford,Ching Brook,0.314
+Bridge Trafford,53.234132,-2.827991,Bridge Trafford,Gowy,0.551
+Loddiswell,50.31395,-3.800717,Loddiswell,River Avon,0.542
+Freshfield Bridge,51.002867,-0.027718,Scayne's Hill,Ouse [So],0.807
+Killamarsh,53.326718,-1.328824,Killamarsh,River Rother,0.443
+"Stains, Pounds Mill",51.43615,-0.514892,Staines,Wraysbury River,0.116
+Ravenstone Mill Sluice,52.129553,-0.753104,Filgrave,River Great Ouse,0.922
+Trowbridge,51.31742,-2.206553,Trowbridge,River Biss,0.339
+Caker Stream,51.140148,-0.959908,Alton,Caker Stream,0.246
+Islip Sluice,52.401841,-0.5448,Islip,Nene (Wollaston-Wansford),1.207
+Aldington Upstream,51.105167,0.948046,Aldington,East Stour Trib  Great Stour,0.071
+Abingdon Peachcroft,51.683092,-1.268125,Abingdon,Ock,0.693
+Colesbrook,51.049578,-2.276018,Milton On Stour,Shreen Water,0.22
+Mansfield The Dykes,53.166753,-1.164236,Mansfield,River Maun,0.329
+Withy Bridge,50.752006,-3.454461,Broadclyst,River Clyst,0.189
+Bransford,52.177055,-2.28833,Bransford,River Teme,1.256
+Dodford,52.240918,-1.083171,Dodford,Nene - Whitton Branch,0.18
+Wharf Mill,51.0582,-1.308338,Winchester,Itchen,0.399
+St Erth,50.156881,-5.432918,St Erth,River Hayle,0.457
+Thirsk,54.235258,-1.341973,Thirsk,Cod Beck,0.641
+Castleton,54.466168,-0.944968,Castleton,River Esk,0.169
+Portwood,53.42353,-2.141405,Bredbury,Tame,0.288
+Ilfracombe Lambda,51.196412,-4.120133,Ilfracombe,East Wilder Brook,0.3
+Wanes Blades,53.607043,-2.793103,Newburgh,Douglas,1.06
+Bulwell,53.009557,-1.190048,Bulwell,River Leen,0.384
+Nutclough,53.744763,-2.010569,Hebden Bridge,Hebden Water,0.148
+Rodbourne,51.571821,-1.816698,Haydon Wick,Ray (Wilts),0.191
+Edgware Hospital,51.607093,-0.271414,Edgware,Silk Stream,0.832
+Sawbridgeworth,51.812151,0.158674,Sawbridgeworth,Stort,1.283
+Witham Friary,51.169425,-2.364153,Witham Friary,Somerset Frome,-0.073
+Glemsford,52.09308,0.693213,Stanstead,River Glem,0.223
+Donington Bridge,52.90501,-0.255888,Bridge End,South Forty Foot,0.117
+Saintbridge,51.848419,-2.217412,Gloucester,Twyver,0.008
+Horton weir,51.257785,1.030079,Chartham,Great Stour,0.297
+Barnsley,53.560696,-1.473078,Barnsley,River Dearne,0.388
+White Water Dyke,51.121217,0.85627,Kingsnorth,White Water Dyke Tributary  East Stour,0.144
+Winsford Road,51.435695,-0.027404,Catford,Pool River,0.175
+East Budleigh,50.652217,-3.320001,East Budleigh,Budleigh Brook,0.639
+Oulton Broad,52.474903,1.71041,Oulton Broad,River Waveney,-0.188
+Beggearn Huish,51.14633,-3.373795,Washford,Washford River,0.283
+Beaminster,50.807196,-2.739279,Beaminster,River Brit,0.28
+Abingdon,51.666656,-1.305189,Abingdon,Ock,0.212
+Haltwhistle,54.967781,-2.460104,Haltwhistle,River Tyne,1.015
+Bridge Rule,50.799229,-4.450269,Bridge Rule,River Tamar,0.876
+Duffield,52.998306,-1.525391,Windley,River Ecclesbourne,0.55
+Sewards Bridge,51.086429,-1.181847,New Alresford,Cheriton Stream,0.263
+Evesham,52.092165,-1.942876,Evesham,River Avon,0.631
+Butts Bridge,52.226571,-2.730348,Butts Bridge,Lugg,1.53
+Zoon's Court Flood Storage,51.868902,-2.196045,Gloucester,Horsbere Brook,0.274
+Leasingham Mill,53.022732,-0.379369,Evedon,Slea,0.168
+Cockfield,52.135453,0.794489,Cockfield,River Brett,0.162
+Beetham Weir,54.218531,-2.774107,Beetham,River Bela,0.616
+Crookham Village,51.262934,-0.867562,Crookham Village,Hart,0.679
+Marston on Dove,52.855534,-1.648727,Rolleston On Dove,River Dove,0.992
+Brendon,51.219143,-3.751991,Brendon,East Lyn River,1.517
+Evenlode Bridge,51.95095,-1.679842,Evenlode,Evenlode,0.624
+Bodiam Avenue,51.832287,-2.270144,Gloucester,Daniels Brook,0.005
+Bray Lock,51.509305,-0.69032,Bray,Thames,0.269
+Lexden,51.89895,0.851031,Beacon End,River Colne,0.438
+Farnworth,53.557357,-2.388815,Farnworth,Croal,0.324
+Kilham's Bridge,51.898975,0.358984,North Wootton,Wallington,1.007
+Leek,53.1201,-2.012802,Leek,River Churnet,0.499
+Cononley,53.918229,-2.006046,Cononley,River Aire,0.71
+"Waltham Abbey, Sewardstone Road",51.681471,0.004958,Waltham Abbey,Cobbins Brook,0.429
+St Blazey Station Road,50.361418,-4.715659,St Blazey,St Blazey Stream,0.058
+Hudds Mill,52.654318,-0.461033,Stamford,Welland (Stamford - Peakirk),0.101
+St Ives,52.317315,-0.072946,St Ives,River Great Ouse,0.128
+Welsh Bridge,52.709797,-2.75808,Shrewsbury,River Severn,1.821
+Shonks Mill Bridge,51.661693,0.209122,Navestock Heath,Roding,0.548
+Threlkeld,54.613784,-3.050496,Threlkeld,Glendermackin,0.906
+Colney Street,51.704664,-0.336052,Colney Street,Ver,0.193
+Trengune,50.710701,-4.56631,Trengune,River Ottery,0.299
+Chertsey Lock,51.390617,-0.48637,Chertsey,Thames,0.275
+Exwick,50.734613,-3.547352,Exeter,River Exe,0.332
+Wakefield Henry Street Br,53.681612,-1.517112,Hedon Westlands Drain,Alverthorpe Beck,0.058
+Ladock,50.321143,-4.961751,Ladock,Tresillian River,0.156
+Partney,53.187011,0.096794,Partney,Lymn & Steeping,0.136
+Levisham Mill,54.299848,-0.717923,Levisham,Levisham Beck,0.172
+Maunby,54.270085,-1.467898,Maunby,River Swale,2.383
+Tixover,52.587333,-0.568186,Tixover,Welland (Rockingham - Stamford),0.504
+Reading,51.461325,-0.967884,Reading,Thames,6.725
+Croft,54.483499,-1.553528,Croft-on-Tees,River Tees,0.938
+Knighton Main,51.437409,-1.576981,Whittonditch,Kennet,0.23
+Gloucester (Severn),51.864982,-2.252201,Gloucester,River Severn,1.208
+Westmill,52.085266,0.665897,Pentlow,River Stour,0.461
+Lomeshaye,53.836305,-2.232297,Nelson,River Calder,0.693
+Whittington,53.266027,-1.410737,Old Whittington,River Rother,0.768
+Witcombe,51.840037,-2.142115,Gloucester,Horsbere Brook,0.091
+Gatwick Link,51.160212,-0.163604,Horley,Gatwick Stream,0.39
+Gargrave,53.982002,-2.097548,Gargrave,River Aire,0.392
+Pioneer Mills,53.561524,-2.316991,Radcliffe,Irwell,1.323
+Iffley Lock,51.72955,-1.239792,Kennington,Thames,0.172
+Bredon,52.03494,-2.116566,Bredon,River Avon,0.835
+Darlaston,52.916247,-2.171867,Meaford,River Trent,1.004
+Diss,52.371419,1.099743,Diss,River Waveney,0.201
+East Bridge Bridport,50.731934,-2.752192,Bridport,River Asker,0.214
+Woolsington,55.023247,-1.698085,Woolsington,Ouse Burn,0.126
+Chertsey Bourne,51.402823,-0.539779,Thorpe,Chertsey Bourne,0.716
+Izaak Walton,53.055864,-1.782274,Ilam,River Dove,0.529
+"Botcherby Bridge, Carlisle",54.89341,-2.910796,"Botcherby, Carlisle",River Petteril,0.944
+Stainfield Beck,53.250167,-0.313829,Kingthorpe,Stainfield Beck,0.256
+Horncastle Banks Road,53.208433,-0.108817,Horncastle,Waring,0.269
+Colwick,52.952707,-1.07772,Holme Pierrepont,River Trent,1.956
+Edenbridge,51.194078,0.065165,Edenbridge,Eden Tributary  Medway,1.818
+Castle Howe,54.666243,-3.236916,Castle Howe,Lake Bassenthwaite,2.224
+Frampton Cotterell,51.537816,-2.481077,Frampton Cotterell,Bristol Frome,0.23
+Ewen,51.674733,-1.9904,Ewen,Thames,0.285
+Brown Mill,51.171609,0.799508,Hothfield,Great Stour,0.354
+Beerwall Upstream,51.079805,-2.869413,Othery,Sowy,3.269
+Gillingham Le Neubourg Way,51.037252,-2.278768,Gillingham,River Stour,0.421
+Cliff Bridge,54.986798,-2.920411,Kirklinton,Lyne,1.054
+Beddington Park,51.373583,-0.138986,Beddington,Wandle,0.306
+Boynton,54.093099,-0.263772,Boynton,River Gypsey Race,0.085
+Cricklade,51.646694,-1.865536,Cricklade,Thames,0.428
+Allington Marina,51.291026,0.511282,Sandling,Medway,0.209
+Sheffield Oakbrook Road,53.367798,-1.521432,Sheffield,Porter Brook,0.093
+West Drayton,51.500923,-0.482762,West Drayton,Colne,0.422
+Bampton Grange,54.555577,-2.743431,Bampton Grange,River Lowther,16.154
+Arlesey,52.026751,-0.266941,Arlesey,River Hiz,0.123
+Hovingham,54.173347,-0.984145,Hovingham,Hovingham Beck,0.1
+Wigan,53.54925,-2.625999,Wigan,Douglas,0.349
+Bures Bridge,51.972195,0.774544,Bures,River Stour,0.159
+Rose in Vale,50.311991,-5.166154,Mithian,Perrancombe Stream,0.331
+Bruton Dam,51.116056,-2.430837,Bruton,River Brue,0.66
+Halsewater,51.021033,-3.132608,Bishops Hull,Halsewater,0.327
+Coldgate Mill,55.517539,-2.005254,North Middleton,Wooler Water,0.158
+Shelburne Road,51.891766,-2.103713,Cheltenham,Hatherley Brook,
+Davis Road,53.411889,-3.088778,Moreton,Birket,0.833
+Hampstead Suburb,51.584844,-0.180888,Finchley,Mutton Brook,0.849
+Crowhurst,50.878052,0.500069,Crowhurst,Cuckmere,5.033
+Kegworth,52.831898,-1.273539,Kegworth,River Soar,0.564
+Brigsley,53.496174,-0.11262,Brigsley,Waithe Beck,0.239
+Bourn Brook,52.192643,-0.064443,Bourn,Bourn Brook,0.332
+Low Briery,54.608017,-3.107571,Keswick,Greta,1.297
+Bidford on Avon,52.164097,-1.857348,Bidford on Avon,River Avon,1.417
+Godstow Lock,51.776669,-1.298428,Wytham,Thames,0.135
+Upwey Culvert,50.665978,-2.480781,Upwey,Wey,0.033
+Swallowfield,51.377564,-0.952526,Swallowfield,River Blackwater,0.486
+Alston,54.812531,-2.443415,Alston,River South Tyne,0.609
+"Cheshunt, Trinity Lane",51.691657,-0.027263,Waltham Cross,Theobalds Brook,0.555
+Mytham Bridge,53.335557,-1.683843,Bamford,River Derwent,1.33
+Lincoln Monson Street,53.221702,-0.541127,Boultham,Lincoln Drainage Area,0.39
+Bickington,50.539272,-3.702255,Bickington,River Lemon,0.433
+"Northholt, Yeading East",51.548783,-0.397836,Northolt,Yeading Brook East,0.109
+De Lank,50.558795,-4.637796,St Breward,De Lank River,0.258
+Newnham Bridge,50.939901,-3.907581,Burrington,River Taw,0.538
+Thame Bridge,51.753138,-0.982253,Thame,Thame,1.249
+Stanley,51.455821,-2.065573,Tytherton Lucas,River Marden,0.782
+Wincanton,51.048996,-2.41251,Wincanton,River Cale,0.142
+Fiskerton Sluice,53.226658,-0.368683,Stainfield,Witham,0.226
+Helston County Bridge,50.100002,-5.279794,Helston,Cober,0.495
+Middleton Bridge,55.151643,-1.917583,Middleton,River Wansbeck,0.401
+Wennington,54.125115,-2.589971,Wennington,Wenning,0.577
+Sheffield Centenary Works,53.351517,-1.484072,Sheffield,River Sheaf,0.133
+"Cheshunt, Windmill Lane",51.703222,-0.022505,Cheshunt,Small River Lee,0.668
+Tiverton,50.883029,-3.489856,Tiverton,River Exe,0.901
+Batley Carlinghow  (up stream),53.71811,-1.638949,North America,Batley Beck,0.282
+Bollington Mill,53.380045,-2.406589,Little Bollington,Bollin,0.534
+Northallerton,54.338848,-1.442218,Northallerton,Willow Beck,0.415
+Radlett,51.682315,-0.315607,Radlett,Radlett Brook,0.622
+Grendon Underwood,51.884491,-1.012852,Grendon Underwood,Ray(Oxon),0.09
+Lostock Gralam,53.277575,-2.455855,Higher Wincham,Wincham Brook,1.313
+Sowerby Bridge Scar Head Road,53.70594,-1.91329,Sowerby Bridge,Ryburn,0.77
+Kestrel Drive,51.563545,-1.722961,Wanborough,Dorcan Brook,0.844
+Fosdyke Jetty,53.23087,-0.555797,Lincoln,Fosdyke Canal,1.388
+Trowlock Island,51.423993,-0.308538,Trowlock Island,Thames,4.672
+Duddon Hall,54.295374,-3.237418,Beckfoot,Duddon,0.501
+Aylesford Stream,51.133674,0.880127,Park Farm,Old Mill Stream Tributary  East Stour,0.97
+Medbourne,52.537116,-0.824895,Medbourne,Medbourne Brook,0.141
+Mytholmroyd,53.73128,-1.983282,Mytholmroyd,River Calder,1.186
+Sprouston,55.61121,-2.395446,Sprouston,Tweed,1.72
+Bellingham,55.142852,-2.261953,Bellingham,River North Tyne,0.727
+Tidworth Manor Bridge,51.242295,-1.662004,North Tidworth,River Bourne,0.103
+Tideford,50.413192,-4.331177,Tideford,River Tiddy,0.16
+Torksey,53.293511,-0.750996,Torksey,River Trent,4.477
+Drove Lane,51.090021,-1.181212,New Alresford,Alre,0.354
+Welney Causeway,52.518826,0.252026,Welney Causeway,River Great Ouse,1.747
+Pincock Brow,53.655307,-2.676594,Euxton,Yarrow,0.272
+Walcot,52.706629,-2.60558,Walcot,River Tern,0.944
+Eel House Bridge,54.338025,-2.970931,Satterthwaite,Cunsey Beck,0.911
+Armscroft Place,51.863183,-2.221361,Gloucester,Wotton Brook,0.098
+Bodicote,52.028582,-1.326852,Bodicote,Sor Brook,0.166
+Chipping Ongar,51.709101,0.239586,Chipping Ongar,Cripsey Brook,0.366
+Goring Lock,51.523317,-1.141252,Streatley,Thames,0.085
+Todmorden Callis Bridge,53.732891,-2.045203,High Green,River Calder,0.274
+Smithy Houses,53.019889,-1.425573,Smithy Houses,Bottle Brook,0.6
+Northmoor Lock,51.716858,-1.374624,Appleton,Thames,0.046
+Sturmer,52.069056,0.474036,Sturmer,Stour Brook,0.153
+Little Bytham,52.748345,-0.50217,Little Bytham,West Glen (To Kates Bridge),0.04
+Barbrook Bridge,51.213836,-3.841064,Barbrook,West Lyn River,0.293
+Silsden,53.923505,-1.933535,Silsden,Silsden Beck,0.131
+Stokesley Downstream,54.462673,-1.19921,Stokesley,River Leven,0.841
+Semington,51.343988,-2.134327,Semington,Semington Brook,0.449
+Kislingbury,52.231962,-0.97793,Kislingbury,Nene,0.163
+Todmorden,53.716861,-2.096931,Todmorden,River Calder,0.585
+Lodden Bridge,51.034216,-2.265615,Gillingham,River Lodden,0.609
+Whitewater Bridge,53.226502,-1.008036,Ollerton,River Maun,0.391
+Mythe Bridge,52.00171,-2.163093,The Mythe,River Severn,1.113
+Fleet Weir,53.751469,-1.423682,Woodlesford,River Aire,0.609
+Croft Monk End Farm,54.484792,-1.567976,Croft-on-Tees,Clow Beck,0.848
+Oxford Rd,53.78552,-2.234141,Burnley,River Calder,0.532
+Whaddon,52.101809,-0.017376,Whaddon,Whaddon Brook,0.33
+Hartford Bridge,55.113789,-1.620587,Hartford Bridge,Blyth,0.384
+Reeth,54.387346,-1.936039,Fremington,Arkle Beck,0.515
+Beck Bridge,52.332181,0.438278,Isleham,Kennett,0.08
+Limekilns,50.682229,-3.470109,Exminster,Exminster Marshes,0.408
+Restormel,50.431183,-4.67963,Lostwithiel,River Fowey,0.372
+"Hemel Hempstead, Old Fishery Lane",51.744674,-0.49654,Hemel Hempstead,Bulbourne,0.635
+Trenear,50.133798,-5.254647,Wendron,River Cober,0.505
+Kirby Sigston,54.347769,-1.3567,Kirby Sigston,Cod Beck,0.409
+Preston-Le-Skerne,54.60851,-1.549436,Aycliffe Village,River Skerne,0.274
+Derwent Water at Lodore,54.562827,-3.138777,Derwent Water at Lodore,Derwentwater,1.942
+Ross On Wye,51.915339,-2.587573,Ross On Wye,Wye,1.848
+Stamford Bridge,53.991789,-0.916086,Tan Hall,River Derwent,7.076
+Little Ouse,52.453082,0.545246,Lakenheath,Little Ouse,1.789
+Whitwick,52.739499,-1.353725,Whitwick,Grace Dieu Brook,0.355
+Crew Green,52.735739,-2.994315,Crewgreen,River Severn,3.907
+Moorend Road,51.883138,-2.061691,Cheltenham,Lilley Brook,0.385
+Gosshill Road,51.403702,0.060218,Bickley,Kyd Brook,0.537
+Howe Bridge,54.174308,-0.762132,Wykeham,River Rye,2.113
+Chapel Hill,53.070452,-0.196967,Chapel Hill,Witham,0.557
+Princes Marsh,51.037463,-0.89988,Princes Marsh,Arun,0.368
+Colliers Land Bridge,51.150722,0.174763,Fordcombe,Medway,2.057
+Fairmile,50.767191,-3.29459,Fairmile,River Tale,0.328
+Pillings Lock,52.758541,-1.164067,Barrow Upon Soar,River Soar,1.118
+Tibberton,52.781029,-2.474812,Tibberton,River Meese,0.289
+Furneux Pelham,51.930418,0.086394,Furneux Pelham,Ash (Hertfordshire),0.308
+Burford Bridge,52.311774,-2.625404,Burford,Ledwyche Brook,0.864
+Houghton Le Spring,54.842382,-1.487058,Houghton Le Spring,Moors Burn,0.177
+Naburn Lock,53.89327,-1.097619,Naburn,River Ouse,1.754
+Kilnhurst Bridge,53.472151,-1.296778,Kilnhurst,River Don,0.385
+Chollerford,55.029637,-2.127318,Chollerford,River North Tyne,0.56
+Hackbridge,51.377064,-0.160112,Hackbridge,Wandle,1.152
+Cornwood,50.417855,-3.959444,Cornwood,River Yealm,0.27
+Rothley,52.7031,-1.142483,Rothley,Rothley Brook,0.339
+Whetstone,51.623491,-0.185411,Totteridge,Dollis Brook,0.409
+Holbeam Dam Downstream,50.533259,-3.657787,Newton Abbot,River Lemon,0.355
+Bishops Avenue,51.401378,0.028483,Bromley,Ravensbourne,0.537
+Marham,52.678061,0.547924,Marham,Nar,0.219
+Drakelow,52.780647,-1.647106,Branston,River Trent,1.57
+Lapford,50.857808,-3.810592,Lapford,River Yeo,0.593
+Slad Road,51.747599,-2.214291,Stroud,Slad Brook,0.121
+Low Street,52.612011,1.01713,Thuxton,River Yare,1.425
+Molesey Lock,51.406476,-0.349558,East Molesey,Thames,0.198
+Little Puddle,50.767098,-2.400751,Piddlehinton,River Piddle,0.145
+Ampney St Peter,51.710647,-1.889951,Ampney St Peter,Ampney Brook,0.315
+Collard Bridge,51.099972,-4.010005,Goodleigh,River Yeo,0.548
+Mountnessing,51.648181,0.346098,Mountnessing,River Wid,0.523
+Huntingford Bridge,51.067397,-2.26953,Huntingford,Shreen Water,0.342
+Snaygill,53.940697,-2.021283,Ravenshaw,River Aire,2.121
+Hellifield,54.006777,-2.221986,Hellifield,Hellifield Beck,0.303
+Mevagissey,50.272818,-4.791471,Mevagissey,Mevagissey Stream,0.174
+Wheatley,51.740637,-1.115198,Wheatley,Thame,4.193
+Ingworth,52.819304,1.251666,Ingworth,River Bure,0.321
+Skelton,53.991515,-1.135153,Nether Poppleton,River Ouse,2.716
+Newby Bridge,54.268069,-2.974952,Newby Bridge,River Leven,1.376
+High River Keer,54.140607,-2.731323,Capernwray,Keer,0.325
+Cowley Bridge,50.759747,-3.559651,Cowley,River Creedy,0.359
+Wakefield Grasmere Road,53.686013,-1.529962,Wakefield,Alverthorpe Beck,0.109
+Loe Pool,50.08362,-5.291203,Helston,River Cober,3.738
+Braunton Butts Bridge,51.111292,-4.161795,Braunton,River Caen,0.767
+Sheepwash Bridge,50.851679,0.522713,Sheepwash Bridge,Cuckmere & Pevensey Levels,1.121
+Huish Episcopi PS,51.031669,-2.798991,Huish Episcopi,River Yeo,1.418
+High Ongar,51.713888,0.259177,High Ongar,Roding,0.219
+Waren Ford,55.550443,-1.784723,Warenford,Waren Burn,0.122
+Miller Bridge House,54.429259,-2.970683,Miller Bridge,River Rothay,0.89
+Abbeymead Avenue,51.840929,-2.202237,Gloucester,Twyver,0.143
+Wansford,52.584341,-0.404444,Wansford,Nene (Wollaston-Wansford),0.363
+Bekesbourne,51.258144,1.145929,Bekesbourne,Nail Bourne Tributary Little Stour,0.724
+Teston,51.250834,0.447181,West Farleigh,Medway,0.837
+Hawley Road,51.315486,-0.764535,Cove,Cove Brook,
+Thetford Coffee Mill Sluice,52.415589,0.734272,Thetford,Little Ouse,0.629
+Redbridge,51.576239,0.040575,Wanstead,Roding,0.489
+St Johns Lock,51.68931,-1.678796,Lechlade On Thames,Thames,0.099
+Framlingham,52.230723,1.344041,Brabling Green,River Ore,0.128
+Ludlow Teme,52.36409,-2.706474,Ludlow,River Teme,1.801
+Stanhope,54.745941,-2.026369,Stanhope,River Wear,0.624
+Low Moor,53.872754,-2.414398,Low Moor,Ribble,1.268
+Greystone Bridge,50.60014,-4.3068,Felldownhead,River Tamar,0.484
+Old Woking FWS,51.302063,-0.543308,Old Woking,Wey,2.512
+Bampton,51.72466,-1.54887,Bampton,Shill Brook,0.875
+Laceby,53.546656,-0.159656,Laceby,Laceby Beck,0.174
+Ousden,52.206315,0.520869,Ousden,Kennett,0.66
+Queen's Mill,53.638515,-1.7867,Huddersfield,River Holme,0.702
+Ifield,51.11607,-0.222649,Ifield,Ifield Brook,1.175
+Ashton Weir,53.438308,-2.344072,Urmston,Mersey,1.007
+Veraby,51.025705,-3.749635,Bishop's Nympton,River Yeo,0.561
+Solihull Lodge,52.397668,-1.853805,Major's Green,River Cole,0.305
+Frome,51.242286,-2.327797,Frome,Somerset Frome,0.129
+Huntington,53.981457,-1.067671,Huntington,River Foss,1.014
+Wendlebury,51.874246,-1.18499,Wendlebury,Wendlebury Brook,1.016
+Baltmoor Wall,51.05693,-2.949032,East Lyng,Little Saltmoor Rhyne,
+Ewell,51.355767,-0.255182,Ewell,Hogsmill,0.171
+Three Elms,52.069153,-2.743532,Three Elms,Yazor Brook,0.167
+Guildford Street,51.389272,-0.506291,Chertsey,Chertsey Bourne,0.617
+Bracebridge,53.202079,-0.553771,Boultham,Witham,0.437
+Bainbridge,54.311836,-2.102939,Bainbridge,River Ure,0.66
+Millbourne Bridge,51.349005,-0.602519,Chobham,Mill Bourne,1.029
+Broken Scar,54.517925,-1.601411,Low Coniscliffe,River Tees,1.057
+Winterborne Monkton,51.450901,-1.859793,Winterbourne Monkton,Kennet,0.125
+Liversedge Halifax Road,53.70985,-1.690136,Liversedge,Lands Beck,-0.001
+North Cheam,51.374843,-0.208335,North Cheam,Pyl Brook,0.979
+Bagnor,51.422436,-1.350461,Bagnor,Winterbourne Stream,0.095
+"Hertford, Hartham Park",51.801234,-0.079759,Hertford,Beane,0.176
+Tregony,50.266031,-4.918599,Tregony,River Fal,0.683
+East Farleigh Gate Upstream,51.254622,0.485076,East Farleigh,Medway,1.337
+Taunton Market,51.020017,-3.100618,Taunton Market,River Tone,0.957
+Honiton,50.798774,-3.194372,Honiton,The Gissage,0.066
+John St Darlington,54.533026,-1.55104,Darlington,River Skerne,0.346
+Stanwell Mill,51.466242,-0.501779,Longford,Colne,0.587
+Peterchurch,52.041372,-2.955501,Peterchurch,Dore,0.446
+Ferrybridge Lock,53.713759,-1.26662,Ferrybridge,River Aire,0.807
+Hayes Lane,51.392901,0.019484,Bromley,Ravensbourne,0.032
+Halton,53.800865,-1.480337,Leeds,Wyke Beck,0.128
+Burstwick Hall Road Bridge,53.739921,-0.144398,Burstwick,Burstwick Drain,0.912
+Kings Pond,51.150372,-0.96697,Alton,Wey,0.157
+Merestones Road,51.88594,-2.093645,Cheltenham,Hatherley Brook,0.111
+Levisham Station,54.308919,-0.746353,Newton-On-Rawcliffe,Pickering Beck,0.458
+Newport Pagnell (Cemetery),52.087826,-0.717093,Newport Pagnell,River Great Ouse,0.481
+Catford Hill,51.441442,-0.026869,Catford,Ravensbourne,0.207
+Bourton Grounds,51.991569,-0.939719,Bourton Grounds,Twin,0.317
+Brayford Pool,53.229862,-0.546842,Lincoln,Witham,0.302
+Sutton Courtenay,51.647821,-1.254167,Culham,Thames,2.184
+Kempsey Yacht Club,52.158602,-2.219449,Callow End,River Severn,2.63
+Udiam,50.991816,0.524378,Bodiam,River Rother,1.361
+New Jumbles Rock,53.833695,-2.453518,Hurst Green,Ribble,0.974
+"Edmonton, Silver Street",51.615727,-0.065253,Edmonton,Pymmes Brook,0.248
+Blackford Bridge,53.5659,-2.293017,Hollins,Roch,0.469
+Brant Broughton,53.080542,-0.614579,Brant Broughton,Brant,0.192
+Bolton Percy,53.863248,-1.192116,Bolton Percy,River Wharfe,5.095
+Goldbridge,50.975187,0.034071,Newick,Ouse [So],0.817
+Samlesbury,53.76911,-2.624715,Samlesbury,Ribble,2.233
+Rickmansworth,51.641989,-0.46125,Rickmansworth,Chess,0.085
+Lancaster Quay,54.051851,-2.822021,Lancaster,Lune,2.096
+Uxbridge,51.533611,-0.47115,Cowley,Pinn,0.374
+Newtown Bridge,51.076717,-3.866807,Charles,River Bray,0.642
+"Stanmore, Wolverton Road",51.610531,-0.313052,Stanmore,Edgware Brook,0.44
+Day Brook,52.986245,-1.163701,Nottingham,Day Brook,0.072
+Ramsbury Side,51.443821,-1.584692,Whittonditch,Aldbourne,
+Netham Weir,51.451028,-2.55481,Bristol,River Avon,0.484
+Earls Colne,51.935709,0.697218,Colne Engaine,River Colne,0.243
+Liverpool Road,53.38377,-2.624305,Sankey,Sankey Brook,2.173
+Clifton Bridge,52.92478,-1.166968,West Bridgford,River Trent,1.492
+Pershore,52.10744,-2.07193,Pershore,River Avon,3.447
+Nunton Bridge,51.036427,-1.771751,Nunton,River Ebble,0.776
+Penberth,50.050669,-5.634771,Penberth,Penberth Stream,0.276
+Nunnykirk,55.232946,-1.893044,Nunnykirk,River Font,0.523
+Palmers Dam,50.390648,-3.72194,Harbertonford,River Harbourne,0.566
+Ashley,52.515233,-0.794532,Drayton,Welland (To Mkt.Harborough),0.238
+Catterick Village,54.374943,-1.633138,Catterick Village,Brough Beck,0.4
+Upton Hellions,50.820959,-3.65782,Upton Hellions,River Creedy,0.372
+Trekeivesteps,50.501243,-4.500737,Common Moor,River Fowey,0.489
+Went Outfall,53.660847,-0.99124,Went Green,River Went,2.018
+Field Mill,53.137597,-1.198884,Mansfield,River Maun,0.708
+Maidenhead,51.524146,-0.702103,Taplow,Thames,2.473
+New York,53.081293,-0.140778,New York,West Fen Catchwater,0.396
+Winsham,50.850029,-2.888672,Winsham,River Axe,1
+Sowerby Bridge,53.707881,-1.912089,Sowerby Bridge,River Calder,0.282
+Brampton Racecourse,52.330595,-0.227967,Brampton,Alconbury Brook,0.346
+Eathorpe,52.316208,-1.431466,Eathorpe,Leam,0.728
+Barden Lane,53.811466,-2.248409,Brierfield,Pendle Water,0.604
+Waterloo Road,53.870513,-2.388461,Clitheroe,Mearley Brook,0.281
+The Binghams,51.506197,-0.710164,Maidenhead,The Cut,1.146
+"Wiza Beck Storage Basin, Wigton",54.817425,-3.167142,Wigton,Wiza Beck,0.273
+Foxton Bridge,54.477707,-1.298736,Middleton-On-Leven,River Leven,0.432
+Sutton Gault,52.39784,0.093691,Sutton Gault,River Great Ouse,1.894
+Hexham,54.969163,-2.115677,Hexham,Cockshaw Burn,0.228
+Horley,51.173918,-0.18323,Horley,Mole,1.93
+Tinhay,50.647179,-4.267416,Lifton,River Thrushel,0.468
+Idmiston,51.137063,-1.72023,Idmiston,River Bourne,0.069
+Bacons End,52.484208,-1.731944,Marston Green,River Cole,0.228
+Redbourn River Red,51.793132,-0.396615,Redbourn,Red,0.044
+Hunsingore,53.971293,-1.349003,Hunsingore,River Nidd,0.469
+Esher,51.381714,-0.377493,Esher,Mole,1.458
+Ewelme,51.619653,-1.073786,Ewelme,Ewelme Brook,0.043
+Pointon Lode,52.867461,-0.333163,Pointon,Pointon Lode,0.06
+Fulling Mill,51.837638,-0.221289,Welwyn,Mimram,0.061
+Albury,51.210841,-0.504627,Albury,Law Brook,0.089
+Radcot Lock,51.699764,-1.573094,Radcot,Thames,0.057
+Hamerton,52.428112,-0.3542,Hamerton,Alconbury Brook,1.258
+Stokesley,54.468269,-1.194564,Stokesley,River Leven,0.1
+Midford,51.348874,-2.340892,Southstoke,Midford Brook,1.148
+Browns Bridge,50.981447,0.468833,Robertsbridge,Dudwell Tributary  Rother,0.779
+Burton Coggles,52.823395,-0.536693,Burton-Le-Coggles,West Glen (To Kates Bridge),0.126
+Hammoon,50.931417,-2.257544,Hammoon,River Stour,0.415
+Lilbourne,52.395138,-1.173153,Lilbourne,River Avon,0.263
+Byton,52.276841,-2.932709,Byton,Lugg,0.774
+Norwood,53.57333,-1.103688,Thorpe In Balne,Ea Beck,0.568
+South Newton,51.107453,-1.878102,South Newton,River Wylye,0.321
+Downside Bridge,51.323836,-0.41269,Stoke D'abernon,Mole,2.081
+Mitford,55.166194,-1.727617,Mitford,River Wansbeck,1.003
+Frisby on the Wreake,52.755673,-0.970755,Frisby on the Wreake,River Wreake,
+North Bovey,50.639783,-3.787037,North Bovey,River Bovey,0.179
+St Leonards,54.507361,-3.525782,Cleator,Keekle,0.625
+Cirencester,51.724451,-1.972293,Stratton,Churn,0.354
+Helebridge,50.806416,-4.536465,Marhamchurch,River Neet,0.188
+Marsden,53.601624,-1.927299,Marsden,River Colne,0.611
+Trenowth,50.319157,-4.898882,Grampound Road,River Fal,0.362
+Normanby,54.229768,-0.872461,Normanby,River Seven,0.51
+Woodstock,51.864215,-1.356609,Wootton,Glyme,0.22
+Abbeystead Reservoir,53.978695,-2.677098,Abbeystead,Wyre,0.123
+Chetnole,50.873685,-2.566002,Chetnole,River Wriggle,0.231
+Wandle Park Side Channel,51.419659,-0.18127,Merton,Wandle,0.071
+Loughborough,52.765357,-1.214327,Loughborough,Wood Brook,0.103
+New Barnet,51.650298,-0.164059,Cockfosters,Pymmes Brook,0.166
+Honiton,50.796646,-3.183491,Honiton,Glen Stream,0.153
+Charlton Kings,51.885938,-2.052672,Cheltenham,Chelt,0.404
+Castle Farm,52.496238,-1.688419,Coleshill,River Blythe,0.744
+Romsey Botley Road,50.989153,-1.48518,Romsey,Tadburn Lake,0.372
+Chesham,51.702625,-0.614039,Chesham,Chess,0.23
+Cox's Meadow,51.890714,-2.066105,Cheltenham,Chelt,-0.069
+Lowlands,54.619954,-1.792445,Cockfield,River Gaunless,0.176
+Caton,54.081344,-2.722026,Caton,Lune,1.204
+Cawood,53.833727,-1.12853,Cawood,River Ouse,5.329
+"Iver, Clisbys Bridge",51.529235,-0.488741,Cowley,Colne,0.475
+Lunes Bridge,54.420034,-2.599286,Tebay,Lune,0.992
+Crowford Bridge,50.766235,-4.425512,Whitstone,River Tamar,0.466
+Welches Dam,52.451684,0.163973,Welches Dam,Counter Drain,0.921
+Bucklebury,51.435635,-1.201665,Bucklebury,Pang,0.158
+Poulton Farm,51.427238,-1.724504,Marlborough,Og,0.198
+Tidmarsh,51.468325,-1.08539,Tidmarsh,Pang,1.196
+Stoneybridge,51.1339,-4.153117,Knowle,River Caen,0.148
+Tenbury (Kyre Brook),52.309779,-2.59384,Tenbury,Kyre Brook,0.434
+Shiplake Lock,51.501042,-0.886307,Lower Shiplake,Thames,0.1
+Ripon,54.133486,-1.537861,Ripon,River Laver,0.261
+South House,50.790604,-2.41643,White Lackington,River Piddle,0.154
+Cranford Park,51.488753,-0.412558,Cranford,Crane,0.264
+Woodleigh,50.973061,-3.909695,Chittlehamholt,River Mole,0.848
+Sharnford,52.522794,-1.29766,Sharnford,River Soar,0.354
+Leigh Flood Storage Area,51.194078,0.236345,Leigh,Medway,0.808
+Thompson park,53.79678,-2.234811,Burnley,Brun,0.491
+Castle Rising,52.798728,0.490559,Castle Rising,Babingley,0.192
+Otford,51.304292,0.18632,Otford,Darent,0.32
+Pooley Bridge,54.616994,-2.818572,Pooley Bridge,River Eamont,0.941
+Staines Ash,51.440376,-0.512035,Staines,Ash (Surrey),0.069
+Briggswath,54.462097,-0.654478,Briggswath,River Esk,0.697
+Thorverton,50.80427,-3.511305,Thorverton,River Exe,0.633
+Billinghay,53.077892,-0.274288,Billinghay,Billinghay Skirth,0.377
+"Harrow, Thistledene Avenue",51.561936,-0.379325,Northolt,The Roxbourne,0.085
+Waddon Ponds,51.371312,-0.120688,Beddington,Wandle,0.044
+Fosse Bridge,51.799654,-1.885239,Fossebridge,Coln,0.108
+Sherborne Lake,50.947873,-2.503101,Sherborne,River Yeo,0.151
+Kidderminster,52.388952,-2.250478,Kidderminster,River Stour,1.221
+Graylingwell,50.851113,-0.764553,Graylingwell,Lavant,-0.158
+Cambridge Byron's Pool,52.171412,0.099158,Grantchester,River Rhee,0.388
+Bibury,51.754535,-1.825522,Bibury,Coln,0.167
+Meanwood,53.827584,-1.570463,Leeds,Meanwood Beck,0.28
+Harpenden,51.830547,-0.347917,Harpenden,Lee (Upper),0.832
+Appleby,54.579959,-2.491631,Appleby-In-Westmorland,Eden,0.723
+Kenton Lane,51.587068,-0.307266,Kenton,Wealdstone Brook,0.569
+Borough Bridge weir,51.087739,-1.189248,Itchen Stoke,Candover Stream,0.237
+Ebbesbourne Wake,51.018287,-2.011504,Ebbesbourne Wake,River Ebble,0.136
+Derby City,52.92726,-1.475443,Derby,River Derwent,1.095
+Saltersford,52.890978,-0.62509,Little Ponton,Witham,0.335
+Saxons Lode,52.049661,-2.200744,Naunton,River Severn,1.464
+Feckenham,52.248746,-1.994455,Feckenham,Bow Brook,0.118
+Bedburn,54.6847,-1.818483,Hamsterley,Bedburn Beck,0.425
+Watton at Stone,51.861312,-0.11775,Watton At Stone,Beane,0.352
+North Hykeham,53.176218,-0.5711,North Hykeham,Witham,0.312
+South Street Footbridge,54.662671,-3.361333,Cockermouth,Cocker,1.488
+Hayne Bridge,50.658035,-4.241876,Lifton,River Thrushel,0.438
+Rotherham,53.425334,-1.36339,Rotherham,River Don,0.38
+Wingfield Park,53.072731,-1.441438,Ripley,River Amber,1.16
+Covington,52.314257,-0.444982,Covington,River Kym,0.24
+Bosbury,52.08804,-2.446839,Bosbury,River Leadon,0.072
+Soham Lode,52.364009,0.2603,Little Thetford,River Great Ouse,1.608
+Flixton Bridge,53.439969,-2.388645,Flixton,Mersey,1.253
+Skipton Morrisons,53.959571,-2.022817,Skipton,Eller Beck,0.335
+"Stansted Mountfitchet, Gypsy Lane",51.89464,0.186331,Stansted Mountfitchet,Stansted Brook,0.119
+Littlebourne,51.273726,1.168504,Littlebourne,Little Stour Trib  Great Stour,0.024
+Chalgrove,51.663282,-1.075268,Chalgrove,Chalgrove Brook,1.301
+Great Somerford,51.547559,-2.049871,Great Somerford,River Avon,0.427
+Teddington Lock,51.429566,-0.318416,Teddington,Thames,0.213
+Northmoor Drain,51.073454,-2.964814,Northmoor Green,Northmoor Main Drain,3.096
+Hurley Lock,51.55135,-0.808421,Hurley,Thames,0.193
+"Harlow, Elizabeth way",51.773908,0.073644,Harlow,Canons Brook,0.268
+Ponsanooth,50.196411,-5.136703,Ponsanooth,Kennal,0.148
+Harford,50.421783,-3.918076,Harford,River Erme,0.674
+Bell Weir,51.438166,-0.537257,Hythe End,Thames,0.246
+Gwills,50.393206,-5.056217,Gwills,River Gannel,0.176
+Yorkshire Bridge,53.362304,-1.703631,Thornhill,River Derwent,0.841
+Ouse Bridge,54.677997,-3.24495,Dubwath,Derwent,1.961
+Redhill,51.239844,-0.166451,Redhill,Redhill Brook,0.693
+Ramsbottom Weir,53.650068,-2.31342,Ramsbottom,Irwell,0.686
+Six Arches,53.937868,-2.770317,Scorton,Wyre,0.502
+St Johns Weir,51.580872,-2.094819,Malmesbury,Sherston Avon,0.266
+Kirkby On Bain,53.144196,-0.140051,Kirkby On Bain,River Bain,0.261
+Sharpness,51.717437,-2.482837,Newtown,River Severn,0.649
+Hardman Way,53.69442,-2.466407,Darwen,Darwen,0.15
+Wharncliffe Side,53.445208,-1.549184,Sheffield,River Don,1.202
+Lamarsh,51.987468,0.752212,Lamarsh,River Stour,0.529
+Ilchester,51.003358,-2.683234,Ilchester,River Yeo,0.189
+Budleigh Brook,50.656145,-3.324921,East Budleigh,Budleigh Brook,0.514
+Gipton South Parkway,53.812894,-1.481054,Leeds,Wyke Beck,0.112
+Cox's Flume,51.889683,-2.062296,Cheltenham,Chelt,0.419
+Brooklands,51.346115,-0.465049,Byfleet,Wey,1.173
+"Harrow, Village Way",51.57755,-0.380271,North Harrow,Yeading Brook,0.289
+Keighley,53.864265,-1.904159,Keighley,River Worth,0.569
+Reedham,52.559314,1.570041,Reedham,River Yare,0.766
+Offenham,52.100775,-1.910164,Aldington,Badsey Brook,0.273
+Chalford,51.723887,-2.130978,Stroud,Frome (MI),0.198
+West Ayton,54.251128,-0.484316,East Ayton,River Derwent,0.38
+Charmouth,50.739791,-2.891657,Charmouth,River Char,0.511
+Littleborough,53.645347,-2.092047,Littleborough,Roch,0.385
+"Hemel Hempstead, Bury Mill,",51.757619,-0.475391,Hemel Hempstead,Gade,0.144
+Polson Bridge,50.640271,-4.330759,Liftondown,River Tamar,0.76
+Calthorpe Park,52.460104,-1.897221,Edgbaston,River Rea,0.205
+Penshurst,51.172608,0.173074,Penshurst,Eden Tributary  Medway,1.148
+St Neots,52.242947,-0.263656,St Neots,River Great Ouse,0.855
+Farnham,51.209424,-0.803594,Farnham,Wey,0.341
+Thacka Beck Reservoir,54.668303,-2.76746,"Townhead, Penrith",Thacka Beck,0.254
+Norley Bridge,50.779388,-4.127794,Northlew,River North Lew,0.391
+Ordsall,53.308371,-0.942655,Ordsall,River Idle,0.328
+Bedford Road Sluice,52.229163,-0.868182,Great Houghton,Nene (N'hampton-Wollaston),0.979
+Frenchay,51.492586,-2.523813,Hambrook,Bristol Frome,0.88
+Westwick Weir,54.098062,-1.457119,Skelton On Ure,River Ure,0.867
+Church Stretton,52.5405,-2.801605,Church Stretton,Ash Brook,0.211
+Higham Avenue,53.407175,-2.608928,Dallam,Sankey Brook,1.105
+Selby Westmill,53.786072,-1.066528,Selby,River Ouse,4.088
+Upper Pound,51.998663,-2.155508,Tewkesbury,River Avon,2.222
+Bywell,54.94992,-1.940633,Bywell,River Tyne,1.596
+Woodyates,50.974908,-1.978577,Woodyates,Groundwater level,91.6
+Morpeth,55.167634,-1.6945,Morpeth,Wansbeck,24.476
+Isleham,52.357278,0.418569,Isleham,Lark,2.055
+Dore Twenty Well Lane,53.326618,-1.516187,Dore,River Sheaf,0.423
+Hayes Basin,52.735118,-2.960681,Alberbury,Field Drain,0.98
+Trengoffe,50.477206,-4.595304,Mount,Warleggan River,0.367
+Yeoford,50.775566,-3.718339,Yeoford,River Yeo,0.348
+Fishlake,53.61394,-0.990666,Fishlake,River Don,2.161
+Summerstown,51.428571,-0.187677,Merton,Wandle,1.127
+Bissoe,50.229401,-5.120933,Bissoe,Carnon River,0.514
+Stony Stratford,52.053714,-0.855119,Stony Stratford,River Great Ouse,0.182
+Magpie Hall Lane,51.385199,0.047688,Hayes,Ravensbourne,0.961
+Brompton,54.363181,-1.418526,Brompton,Brompton Beck,0.325
+Ashbrook,53.165868,-2.494907,Wimboldsley Green,Weaver,1.163
+Dewsbury,53.688481,-1.634418,Dewsbury,River Calder,1.598
+Sulham,51.462237,-1.077263,Sulham,Sulham Brook,0.133
+Lilford,52.442977,-0.492641,Pilton,Nene (Wollaston-Wansford),0.431
+Hebden Bridge,53.741165,-2.027245,Hebden Bridge,River Calder,0.447
+Millbrook,50.919652,-1.447963,Millbrook,Tanners Brook,0.14
+Little Hadham,51.884165,0.09127,Little Hadham,Ash (Hertfordshire),-0.019
+Oakley Cross Beck,54.62791,-1.7258,West Auckland,Oakley Cross Beck,0.332
+Pinkhill Lock,51.761748,-1.362413,Farmoor,Thames,0.213
+Hexham Tanners Row upstream,54.973701,-2.105879,Hexham,Cockshaw Burn,0.844
+Salisbury Bourne,51.062826,-1.779755,Salisbury,River Bourne,0.875
+Church Wilne,52.880685,-1.346428,Shardlow,River Derwent,1.218
+Union Bridge,50.529998,-3.614031,Newton Abbot,River Lemon,0.159
+Market Rasen,53.38885,-0.330909,Market Rasen,Rase,0.167
+Twyford,51.484806,-0.880942,Charvil,Loddon,1.623
+Red Rock,53.583885,-2.637387,Red Rock,Douglas,0.401
+Melton Park,52.762225,-0.889833,Melton Mowbray,River Wreake,0.956
+Collingham,53.912329,-1.418426,Collingham,River Wharfe,1.476
+High Street West,53.445001,-1.964573,Glossop,Glossop Brook,0.222
+Melford,52.412682,0.762195,Thetford,Thet,0.356
+"White House Gardens, Penrith",54.661143,-2.747001,"White House Gardens, Penrith",Thacka Beck,0.44
+Chulmleigh,50.907767,-3.863651,Chulmleigh,Little Dart,0.677
+Colston Bassett,52.896019,-0.962231,Colston Bassett,River Smite,0.651
+Stokesley Upstream,54.473986,-1.173419,Stokesley,River Leven,1.185
+Minsterworth,51.850206,-2.336612,Minsterworth,River Severn,2.573
+Compton Dando,51.380436,-2.506812,Compton Dando,Chew River,0.796
+Bargate Weir,53.213742,-0.55188,Boultham,Witham,0.137
+Perlethorpe,53.233981,-1.032134,Perlethorpe,River Meden,0.242
+Norton Bavant,51.1839,-2.132143,Norton Bavant,River Wylye,0.216
+Hawley,51.423959,0.230865,Hawley,Darent,0.158
+Wokingham,51.40345,-0.836924,Wokingham,Emm Brook,0.502
+Trews Weir,50.716251,-3.527368,Exeter,River Exe,3.471
+Truro,50.264906,-5.060481,Truro,River Kenwyn,0.314
+Saltaire,53.840066,-1.789021,Saltaire,River Aire,0.746
+Buxted,50.989265,0.127308,Buxted,Uck,0.921
+Bradbury,54.650589,-1.508677,Bradbury,River Skerne,0.258
+Romney Lock,51.491873,-0.604104,Eton,Thames,0.226
+Offord,52.27627,-0.223832,Offord Cluny,River Great Ouse,0.457
+Appley Bridge,53.577223,-2.72144,Appley Bridge,Douglas,0.876
+Sheepbridge Weir Mill Stream,51.381826,-0.966655,Swallowfield,Loddon,0.298
+Heyford Bridge,51.920573,-1.306366,Steeple Aston,Cherwell,0.561
+Thirlmere Reservoir (Spillway level = 16.55m),54.561659,-3.068796,Thirlmere Reservoir,Thirlmere Reservoir,14.48
+Lower Arncott,51.861059,-1.119228,Lower Arncott,Ray(Oxon),0.631
+Cranwell Line Sluice,53.00001,-0.427906,Sleaford,Slea,0.089
+Sidmouth,50.682142,-3.235982,Sidmouth,River Sid,0.063
+Launceston,50.641712,-4.362839,Launceston,Kensey,0.275
+Stonebridge,51.132785,0.453941,Horsmonden,Teise,0.71
+Copley,54.62006,-1.868327,Copley,River Gaunless,0.164
+Summerford Bridge,51.107299,0.139866,Withyham,Medway,0.903
+Foss Barrier,53.952443,-1.078056,York,River Ouse,6.846
+Caversham Lock,51.460811,-0.963635,Reading,Thames,0.193
+Ashbourne,53.013888,-1.738962,Ashbourne,Henmore Brook,0.406
+Montford,52.724474,-2.872198,Montford,River Severn,3.374
+Wakefield Oakenshaw,53.668661,-1.472656,Wakefield,Oakenshaw Beck,0.021
+Udford,54.667313,-2.659359,Edenhall,River Eamont,0.843
+Ardingly,51.038151,-0.100109,Ardingly,Shell Brook,0.093
+Bingley,53.85124,-1.842838,Catcliffe Drain,River Aire,0.507
+Chestnut Road,53.494067,-2.375559,Alder Forest,Worsley Brook,0.124
+Mole Mills,51.016893,-3.822486,South Molton,River Mole,0.243
+Sandford-on-Thames,51.708312,-1.232825,Sandford-on-Thames,Thames,0.157
+Sutton Bridge,52.298087,-2.55805,Tenbury,Kyre Brook,0.724
+Stone Road Farm,52.669401,0.995655,Clint Green,River Tud,0.309
+Earby New Cut,53.914547,-2.144584,Earby,Earby Beck,0.367
+Writtle,51.727462,0.441028,Widford,River Wid,0.222
+Rodbourne,51.554844,-2.092255,Rodbourne,Gauze Brook,0.196
+Kedington,52.077093,0.491629,Sturmer,River Stour,0.242
+Romford,51.583879,0.172001,Romford,Rom/Beam,0.462
+Revesby,53.125717,-0.052667,Revesby,West Fen Catchwater,0.276
+Torrington,50.946265,-4.137186,Great Torrington,River Torridge,1.196
+Pinxton,53.0832,-1.32769,Pinxton,River Erewash,0.209
+"Uxbridge, Philpots Bridge",51.517498,-0.476763,Yiewsley,Pinn,1.131
+Poole Street,51.997863,0.578311,Castle Hedingham,River Colne,0.266
+Meerut Road,50.824241,-1.576864,Balmerlawn,Lymington,0.123
+Colne Bridge,53.67527,-1.738074,Huddersfield,River Colne,0.74
+Kates Bridge,52.720446,-0.363945,Baston,River Glen,0.208
+Matlock,53.124099,-1.557929,Matlock Bath,River Derwent,1.28
+Carry Bridge,53.854769,-2.158987,Colne,Colne Water,0.532
+Richmond Lownthwaite Bridge,54.401122,-1.776606,Hudswell,River Swale,0.54
+Bubwith Bridge,53.819066,-0.927565,Bubwith,River Derwent,3.839
+"Pinner, Moss Close",51.598796,-0.376829,Pinner,Pinn,0.298
+Worcester Road,51.375687,-0.264339,Tolworth,Hogsmill,1.233
+Brent Cross,51.577539,-0.217549,Golders Green,Brent,0.365
+"Brent, Monks park",51.551558,-0.267837,Willesden,Brent,0.38
+Allerton Ings,53.740078,-1.366226,Leeds,Aire Washlands,0.068
+Hanwell,51.508638,-0.342569,Norwood Green,Brent,1.337
+South Wigston,52.573856,-1.13453,South Wigston,River Sence (Soar),0.898
+Brown Howe,54.307391,-3.091306,Coniston,Coniston Water,1.283
+Duston Mill,52.227978,-0.934098,Duston,Wootton Brook,0.688
+Puslinch,50.34269,-4.005399,Yealmpton,River Yealm,0.503
+Worksop,53.309224,-1.138194,Worksop,River Ryton,0.36
+Winster Drive,53.384181,-2.825909,Netherley,Netherley Brook,0.532
+Olney,52.147499,-0.708027,Olney,River Great Ouse,0.23
+Yarm,54.512373,-1.355879,Yarm,River Tees,0.54
+Kettlewell,54.143807,-2.050474,Kettlewell,River Wharfe,0.656
+Dryden Street,53.794282,-2.306373,Padiham,Shaw Brook Tributary,0.322
+Cock Beck Sluices,53.874564,-1.253163,Tadcaster,River Wharfe,6.71
+"Bishops Stortford, Grange Paddocks",51.878177,0.160906,Bishop's Stortford,Stort,0.235
+Freemans Weir,52.619792,-1.146475,Aylestone,River Soar,0.225
+Harlow Mill,51.795404,0.134177,Harlow,Stort,1.017
+Cookham Lock,51.560993,-0.694635,Cookham,Thames,0.127
+Osney Lock,51.74909,-1.272781,Botley,Thames,0.039
+Swallowfield Side Channel,51.377564,-0.952526,Swallowfield,River Blackwater,0.571
+Manor House Gardens,51.45563,0.00613,Hither Green,Quaggy,0.166
+Kielder Burn,55.245179,-2.561466,Kielder,Kielder Burn,0.477
+Toynton Fenside,53.144479,0.086945,Toynton Fen Side,East fen Catchwater,0.496
+Wherwell RL,51.166603,-1.441818,Wherwell,Test,
+Beech Hill,51.385195,-1.002649,Grazeley,Foudry Brook,0.841
+Cappenham,52.131783,-0.962049,Cappenham,River Tove,0.384
+Slaughterbridge,50.640424,-4.675182,Camelford,River Camel,0.458
+Weedon,52.229209,-1.080484,Weedon Bec,Weedon Beck,0.074
+Markyate,51.838108,-0.461149,Markyate,Ver,-0.005
+Hadfields,53.413919,-1.416218,Tinsley,River Don,0.493
+Kirkby Mills,54.260305,-0.919219,Kirkby Mills,River Dove,0.473
+Babraham,52.131206,0.205231,Babraham,River Granta,0.107
+Keynsham RL,51.421461,-2.492956,Keynsham,River Avon,0.756
+Aldwark Bridge,54.053636,-1.288144,Aldwark,River Ure,1.531
+IPING MILL,50.999232,-0.786847,Midhurst,Rother (West Sussex),0.863
+"Hoddesdon, Rye Bridge",51.770008,0.006126,Hoddesdon,Lee,2.848
+Weston Bampfylde,51.023159,-2.565568,Weston Bampfylde,River Cam,0.135
+Forde Abbey,50.841739,-2.916366,Forde Abbey,River Axe,0.564
+Wooler,55.547487,-2.011059,Wooler,Wooler Water,0.187
+Linton,52.093158,0.292511,Linton,River Granta,0.086
+Maidenbower,51.110238,-0.153871,Maidenbower,Gatwick Stream,1.054
+North Cave,53.77313,-0.651055,North Cave,Mires Beck,0.242
+Mimmshall Brook,51.706896,-0.217824,South Mimms,Mimmshall Brook,0.483
+Comberton,52.175048,0.01962,Comberton,Bourn Brook,0.408
+Burcote,52.555203,-2.376056,Allscott,River Worfe,0.312
+Sandhurst,51.887818,-2.256949,Maisemore,River Severn,1.494
+Brackley,52.031808,-1.132641,Brackley,River Great Ouse,0.367
+St Andrews Mill,52.244802,-0.905866,Northampton,Nene - Brampton Branch,0.271
+Albert Royds Bridge,53.62694,-2.13755,Smallbridge,Roch,0.706
+Lifton Park,50.635525,-4.279753,Lifton,River Lyd,0.689
+Calne,51.438369,-2.003555,Calne,River Marden,0.288
+Wakefield,53.677173,-1.491306,Wakefield,River Calder,0.319
+North Molton,51.055152,-3.795036,North Molton,River Mole,0.343
+Godmanchester,52.318507,-0.176335,Godmanchester,River Great Ouse,0.334
+Newbury,51.401605,-1.323874,Newbury,Kennet,1.032
+Woodford Halse,52.167771,-1.212815,Hinton,Cherwell,0.981
+Glusburn Bridge,53.897872,-2.008295,Glusburn,Eastburn Beck,0.548
+Fosseway,51.581999,-2.158019,Easton Grey,Sherston Avon,0.334
+Bridgham,52.432388,0.877025,Bridgham,Thet,0.334
+Maiden Newton,50.776561,-2.574345,Maiden Newton,River Frome,0.33
+Goytside Farm,53.357485,-1.996738,New Mills,Goyt,0.944
+Barnes,51.47009,-0.245065,Barnes,Beverley Brook,1.339
+Whitchurch Lock,51.486605,-1.088869,Pangbourne,Thames,0.111
+Farrer Lane,53.747992,-1.448902,Oulton,Oulton Beck,0.215
+"Preesall Pumping Station, Cockers Dyke",53.938698,-2.955067,Pilling Lane,Cockers Dyke,0.776
+Hornchurch,51.546517,0.183966,Elm Park,Beam,0.257
+Austins Bridge,50.479033,-3.761402,Buckfastleigh,River Dart,0.792
+Cae Howel,52.74743,-2.972211,Melverley,River Severn,3.196
+High Green,53.467219,-1.473784,Sheffield,Charlton Brook,0.154
+Bishopstoke,50.970553,-1.344248,Bishopstoke,Itchen,1.051
+Great Easton Flood Storage Reservoir,52.529248,-0.758769,Great Easton,Nene (Wollaston-Wansford),0.579
+Kirk Bramwith,53.596385,-1.063688,Kirk Bramwith,River Don,2.723
+Boscadjack,50.131125,-5.255319,Wendron,River Cober,0.449
+"Enfield, The Chine",51.643461,-0.095003,Winchmore Hill,Salmon Brook,1.207
+Blandford,50.853069,-2.167089,Blandford St Mary,River Stour,0.214
+Todmorden Salford,53.710539,-2.101856,Todmorden,Walsden Water,0.221
+Castleford,53.731002,-1.358177,Castleford,River Aire,1.791
+Stanford Bridge,52.28899,-2.418688,Stanford Bridge,River Teme,1.418
+Braystones,54.440158,-3.529373,Braystones,River Ehen,0.761
+Compstall,53.413802,-2.058026,Compstall,Etherow,0.496
+Brinksway,53.407306,-2.174445,Stockport,Mersey,1.022
+Besford Bridge,52.114425,-2.108012,Pershore,Bow Brook,0.328
+Birstwith,54.038156,-1.650292,Birstwith,River Nidd,0.744
+Kites Hardwick,52.313513,-1.314911,Kites Hardwick,River Leam,0.316
+Netherbury,50.789421,-2.750022,Netherbury,River Brit,0.37
+Windyridge Road,51.91699,-2.086745,Cheltenham,Wymans Brook,0.428
+Bardsey,53.883728,-1.440943,Bardsey,Bardsey Beck,0.186
+Woodlands Road,51.405031,0.056251,Bickley,Kyd Brook,1.195
+Dane End,51.875292,-0.062702,Dane End,Beane,0.719
+Manthorpe,52.731094,-0.419825,Manthorpe,East Glen (To Kates Bridge),0.515
+Brigflats,54.314107,-2.555012,Sedbergh,Rawthey,1.1
+Sampford Brett,51.155718,-3.302248,Sampford Brett,Doniford Stream,0.063
+Hendal Bridge,51.108316,0.172486,Groombridge,Eridge Stream Tributary  Medway,0.662
+Houghton,53.543567,-1.369767,Darfield,River Dearne,0.32
+Coney Gut,51.073179,-4.041276,Barnstaple,Coney Gut,0.502
+Great Ayton,54.488529,-1.135197,Great Ayton,River Leven,0.156
+Saltford,51.399488,-2.447727,Saltford,River Avon,0.749
+Kingskerswell,50.486806,-3.568943,Kingskerswell,Aller Brook,0.414
+Thornton le Dale,54.23945,-0.717218,Thornton le Dale,Thornton Beck,0.178
+"Sands Centre, Carlisle",54.898639,-2.932277,"Sands Centre, Carlisle",River Eden,2.02
+"Roydon, Glen Faba",51.764828,0.015113,Roydon,Stort,1.451
+Amesbury,51.17155,-1.785174,Amesbury,River Avon,0.367
+Binfield,51.433827,-0.773574,Binfield,The Cut,0.285
+Rothbury,55.308429,-1.895992,Rothbury,River Coquet,0.79
+Eynsford Close,51.383249,0.072664,Petts Wood,Kyd Brook,0
+Mapledurham Lock,51.486033,-1.039654,Mapledurham,Thames,0.149
+Galesyke,54.422403,-3.334074,Wasdale,Irt,0.784
+Bush,50.844477,-4.509166,Stratton,River Strat,0.409
+Wickford,51.61221,0.52337,Wickford,River Crouch,0.267
+Waxwell Lane,51.602909,-0.384264,Pinner,Pinn,0.337
+Rawtenstall,53.705772,-2.286263,Rawtenstall,Limey Water,0.352
+Lowdham Grange,53.010442,-1.024175,Lowdham,Cocker Beck,0.174
+Thirlmere,54.565937,-3.063696,Legburthwaite,St Johns Beck,0.226
+Stamp End Sluice,53.228743,-0.528903,Lincoln,Witham,0.907
+Pudsey,53.79812,-1.629518,Pudsey,Farnley Beck,0.095
+Ness,54.203845,-0.937557,East Ness,River Rye,0.791
+Bowston,54.36176,-2.771951,Burneside,Kent,0.442
+Deeping St James,52.666216,-0.280199,Deeping St James,Welland Below Peakirk,0.99
+Bonehayne,50.747683,-3.110915,Colyton,River Coly,0.213
+Tavistock,50.550641,-4.14273,Tavistock,Tavy,0.989
+"Lochinvar storage basin, Longtown",55.009258,-2.963066,Longtown,Lochinver Beck,0.488
+"Cheshunt, Rosedale way",51.713361,-0.060582,Flamstead End,Rags Brook,0.989
+West Auckland,54.633826,-1.719549,West Auckland,River Gaunless,0.231
+Farnham,52.188599,1.451217,Stratford St Andrew,River Alde,0.183
+Weybridge,51.37248,-0.466322,Weybridge,Wey,1.037
+Linstock,54.912827,-2.893015,Linstock,Eden,1.663
+Mary Tavy,50.585989,-4.106699,Mary Tavy,River Tavy,0.317
+Bloxham,52.017279,-1.380792,Bloxham,Bloxham Brook,0.607
+Earby Youth Hostel,53.918527,-2.130286,Earby,Earby Beck,0.133
+Shelley Close,52.211373,-2.215962,Worcester,Barbourne Brook,0.643
+Crabb Mill,51.578233,-2.074985,Lea,Woodbridge Brook,0.325
+Bagshot,51.361518,-0.689296,Bagshot,Windle Brook,0.652
+Chesterfield Tapton Bridge,53.239901,-1.420925,Chesterfield,River Rother,0.22
+Leighton Buzzard,51.907687,-0.668546,Leighton Buzzard,River Ouzel,0.167
+Dolton,50.882269,-4.065162,Dolton,River Torridge,0.739
+Beverley Shipyard,53.843243,-0.399574,Beverley,River Hull,2.429
+Corbridge,54.974805,-2.023395,Corbridge,River Tyne,1.111
+Worcester Park,51.380413,-0.243611,Worcester Park,Beverley Brook,1.158
+Audlem,52.983736,-2.518888,Coxbank,Weaver,0.816
+Walton-Le-Dale,53.752898,-2.680437,Preston,Ribble,1.183
+Morden Park,51.391152,-0.216322,Morden,Pyl Brook,0.533
+Kings Bromley,52.75692,-1.805399,King's Bromley,River Trent,1.453
+Wimbledon Common,51.431619,-0.25215,Kingston Vale,Beverley Brook,0.398
+Cowbeech,50.912658,0.290758,Cowbeech,Cuckmere,0.345
+Cherry Farm,54.303695,-1.000302,Fadmoor,Hodge Beck,0.397
+Kirkby,53.47815,-2.918171,Aintree,Alt,0.547
+Bedford,52.133733,-0.460042,Bedford,River Great Ouse,0.364
+Willen,52.058687,-0.714748,Willen,River Ouzel,0.432
+Free Prae Road,51.386331,-0.501357,Chertsey,Chertsey Bourne,1.178
+Uppermill,53.542889,-2.009008,Greenfield,Tame,0.294
+Wycombe Hugh,51.635574,-0.753691,High Wycombe,Hughenden Stream,0.027
+Ludlow Corve,52.381603,-2.724237,Ludlow,River Corve,1.828
+Ashleworth,51.922936,-2.265002,Ashleworth,River Severn,1.854
+Stowmarket,52.181244,1.008338,Combs Ford,River Gipping,0.333
+Smarden,51.148275,0.682267,Smarden,Beult,0.802
+Perry Park,52.524933,-1.911514,Perry Barr,River Tame,0.778
+Bourton Windrush,51.886693,-1.767911,Bourton-On-The-Water,Windrush,0.15
+Oak Cottage,52.385318,-2.337878,Wyre Forest,Dowles Brook,0.442
+Low Nibthwaite,54.284617,-3.085173,Blawith,Crake,0.68
+Blackstones Farm,53.971111,-1.38968,Little Ribston,River Crimple,0.377
+Eastgate,54.746819,-2.074526,Eastgate,Rookhope Burn,0.16
+Hellingly,50.888318,0.244134,Hellingly,Bull,2.042
+Bolingey Cocks Bridge,50.333417,-5.144361,Bolingey,Bolingey Stream,0.361
+Litte Bowden Flood Storage Reservoir,52.470494,-0.909111,Little Bowden,Jordan,0.218
+Bruton Surgery,51.112337,-2.451073,Bruton,River Brue,0.413
+London Road,53.474178,-2.228957,Manchester,Medlock,0.348
+Hythe End,51.440219,-0.535292,Hythe End,Colne Brook,0.701
+Vexour Bridge,51.189651,0.160853,Chiddingstone Causeway,Eden Tributary  Medway,2.214
+Snaith Ings,53.697129,-0.989661,"Hull High Flaggs, Lincoln Street",Snaith Ings,0.288
+Bishops Frome,52.137017,-2.488532,Bishops Frome,Frome,0.444
+Hagnaby Beck,53.106632,0.0137,Stickford,Hagnaby Beck,0.161
+Clifton Lock,51.648617,-1.210808,Long Wittenham,Thames,0.208
+Buttercrambe,54.019124,-0.885796,Buttercrambe,River Derwent,0.802
+Debenham,52.232016,1.183613,Debenham,River Deben,0.281
+Bucknall,53.017569,-2.162134,Bucknall,River Trent,0.271
+Manaccan,50.081307,-5.125068,Manaccan,Manacan River,0.26
+Harrison Street,53.744388,-2.490462,Blackburn,Blakewater,
+Barnard Castle,54.544622,-1.928854,Barnard Castle,River Tees,0.758
+Catterick Garrison,54.373262,-1.705009,Catterick Garrison,Sour Beck,0.118
+Trebrownbridge,50.410447,-4.394551,Seaton,River Seaton,0.295
+Hug Bridge,53.169457,-2.104665,Rushton Spencer,Dane,0.383
+Cleckheaton Hightown Road,53.721955,-1.715052,Cleckheaton,Blacup Beck,0.046
+Halfway Bridge,50.992202,-0.674476,Lodsworth,Lod,0.367
+Water Orton,52.52039,-1.751178,Water Orton,River Tame,0.578
+New Botley,51.752648,-1.281126,Botley,Bulstake Stream,1.027
+Cold Harbour,51.730973,-1.251352,South Hinksey,Hinksey Stream,0.982
+Burrow Beck,54.039446,-2.780563,Lancaster,Burrow Beck,0.366
+Cannington,51.149147,-3.061825,Cannington,Cannington Brook,0.282
+Kings College,51.397462,-0.230955,New Malden,Pyl Brook,0.435
+Wray,54.105893,-2.605757,Wray,Hindburn,0.565
+Boroughbridge,54.09646,-1.394448,Boroughbridge,River Ure,11.223
+Sheeppen Bridge,51.654587,-1.849612,Latton,Ampney Brook,0.333
+Ashford Mill,50.964926,-2.912024,Ilton,River Isle,0.162
+Borehamwood,51.668568,-0.287687,Green Street,Borehamwood Brook,1.084
+Manor Road,51.921925,-2.099682,Cheltenham,Wymans Brook,
+Town Lock,51.194615,0.278452,Tonbridge,Medway,0.452
+Acton Lane,53.395655,-3.121735,Upton,Arrowe Brook,0.417
+Stilebridge,51.202357,0.515045,Linton,Beult,0.489
+Redlands Lane,51.237321,-0.859739,Crondall,Hart,0.91
+Doveridge,52.902503,-1.834928,Doveridge,River Dove,1.293
+Sandhurst (Hatherley Brook),51.887632,-2.251427,Sandhurst,Hatherley Brook,1.553
+Enslow Weir A,51.861393,-1.30321,Shipton-On-Cherwell,Cherwell,0.447
+Leabridge,50.895273,0.24023,Lealands,Bull,0.551
+Gunnislake,50.531278,-4.221847,Gunnislake,River Tamar,0.762
+Lodsbridge,50.983264,-0.669759,Selham,Lod,3.095
+Horbury,53.655883,-1.562677,Horbury,River Calder,1.148
+Waltham Abbey,51.691132,0.015788,Waltham Abbey,Cobbins Brook,0.232
+Carlton Bridge,53.697646,-1.023804,Snaith,River Aire,3.094
+Banbury,52.066379,-1.333286,Banbury,Cherwell,0.287
+Plaistow Mill,51.118685,-4.048455,Muddiford,Bradiford Water,0.288
+Salisbury Harnham Bridge,51.061054,-1.794476,Salisbury,River Avon,0.549
+Tongham,51.237339,-0.736289,Ash,River Blackwater,0.827
+Stanneylands,53.343712,-2.232417,Styal,Dean,0.494
+Brokenborough,51.602656,-2.124925,Brokenborough,Tetbury Avon,0.28
+Loughton,51.640481,0.081584,Loughton,Roding,0.301
+Witney,51.789786,-1.484269,Witney,Windrush,0.849
+Louds Mill,50.712042,-2.414359,Stinsford,River Frome,0.191
+Staines,51.431611,-0.512248,Staines,Thames,2.822
+Cheswick Green,52.376154,-1.814434,Cheswick Green,River Blythe,0.391
+Reaverhill,55.053183,-2.148665,Barrasford,River North Tyne,1.387
+East Mills Flume,50.928396,-1.777288,Fordingbridge,River Avon,1.024
+Ilam,53.053456,-1.793028,Ilam,River Manifold,0.456
+Barcombe near reservoir,50.915667,0.043425,Barcombe,Ouse [So],0.537
+Maesbrook,52.779686,-3.037866,Maesbrook,Flood Channel,0.341
+Roe Bridge,53.862594,-2.790936,Myerscough,Brock,0.438
+Sheffield Wincobank,53.423952,-1.416682,Sheffield,Blackburn Brook,0.346
+Castle Mill (Bedford),52.145596,-0.405558,Bedford,River Great Ouse,0.306
+Wainsford,50.458709,-4.604746,Mount,River Fowey,0.518
+Send,51.287835,-0.505999,Burntcommon,East Clandon Stream,1.005
+Rushey Lock,51.698716,-1.534037,Carswell Marsh,Thames,0.077
+Northenden,53.408784,-2.252674,Northenden,Mersey,0.767
+Old Mill Lane,53.251492,-2.120243,Macclesfield,Bollin,0.248
+Cropredy Bridge,52.114915,-1.315184,Cropredy,Cherwell,1.147
+Leigh Court,51.926224,-2.197575,The Leigh,Leigh Brook,0.634
+Rugby,52.38548,-1.26252,Newbold On Avon,River Avon,0.708
+Reedyford,53.84567,-2.22323,Barrowford,Pendle Water,0.943
+Billingford,52.359187,1.182279,Oakley,River Waveney,0.387
+Swanton Morley,52.725484,0.990183,Swanton Morley,River Wensum,0.236
+"Pickering, Ings Bridge",54.227169,-0.788071,Pickering,Pickering Beck,0.175
+Holgate,53.964636,-1.111032,Holgate,Holgate Beck,1.077
+Bentham Bridge,54.113463,-2.510184,High Bentham,Wenning,0.867
+Tanbridge,51.061034,-0.335071,Tanbridge,Arun,32.736
+Chafford,51.144544,0.168468,Fordcombe,Medway,1.664
+Biggleswade,52.085111,-0.267906,Biggleswade,River Ivel,0.247
+Tamworth,52.631289,-1.697508,Lady Bridge,River Tame,1.053
+Rase at Bishopbridge,53.406624,-0.44906,Bishopbridge,Ancholme,0.359
+Croston,53.655882,-2.760429,Croston,Yarrow,0.511
+Rodington,52.723597,-2.609812,Rodington,River Roden,0.454
+Lechlade,51.692891,-1.672984,Lechlade On Thames,Leach,0.225
+Sea Cut at Scarborough,54.301579,-0.423296,Scalby Mills,River Sea Cut,0.244
+Doncaster,53.529564,-1.141573,Bentley,River Don,0.83
+Arthington,53.903016,-1.552492,Weeton,River Wharfe,1.427
+Horseshoe Bridge,53.113634,-0.600069,Bassingham,Brant,0.372
+Greenholme,54.914677,-2.803045,Greenholme,River Irthing,0.771
+Williton,51.159618,-3.320133,Williton,Monksilver Stream,0.115
+Cundy Cross,53.551557,-1.439985,Cundy Cross,River Dearne,0.316
+Broom,52.180399,-1.87505,Broom,River Arrow,0.205
+Bath Destructor Bridge,51.38438,-2.37652,Twerton,River Avon,0.562
+Mint Bridge,54.343531,-2.733522,Kendal,Mint,0.646
+Lindfield Bridge,51.021082,-0.073715,Lindfield,Ouse [So],0.98
+Highfield,53.373245,-1.46412,Sheffield,River Sheaf,0.372
+Rutherford Bridge,54.50509,-1.948998,Boldron,River Greta,0.469
+Ribchester School,53.811176,-2.531031,Ribchester,Ribble,1.333
+Adwick le Street White Cross Bridge,53.57617,-1.176242,Adwick le Street,Ea Beck,0.347
+Armley,53.801534,-1.574829,Leeds,River Aire,1.339
+Upavon East,51.302514,-1.809882,Rushall,River Avon,0.279
+North Muskham,53.131855,-0.803653,North Muskham,River Trent,1.298
+Kirby Wiske,54.253557,-1.424704,Kirby Wiske,River Wiske,0.973
+Purton Stoke,51.61322,-1.87404,Purton Stoke,Key,0.654
+Cottingley Bridge,53.838116,-1.828238,Cottingley,River Aire,1.127
+Croxley Green,51.645553,-0.436992,Croxley Green,Gade,0.107
+York Wolfe Avenue,53.962611,-1.057605,York,Tang Hall Beck,0.305
+Towcester,52.135918,-0.996201,Towcester,River Tove,0.258
+Beckenham Park,51.422952,-0.007672,Grove Park,Ravensbourne,0.607
+Passfield Mill,51.101202,-0.825956,Standford,Wey,1.083
+Chinbrook Park,51.431438,0.027081,Grove Park,Quaggy,0.162
+Court Place Farm,50.8568,-3.058949,Yarcombe,River Yarty,0.275
+Germansweek,50.726814,-4.203103,Germansweek,Wolf,0.226
+Stoodleigh,50.949994,-3.506375,Stoodleigh,River Exe,1.477
+Dovecote Hill,54.646651,-1.672987,Bishop Auckland,River Gaunless,0.656
+Langham,51.971749,0.940326,Thorington Street,River Stour,0.633
+Theale,51.432753,-1.067068,Theale,Kennet,0.449
+Viking Recorder,53.958791,-1.085536,York,River Ouse,1.852
+North Mymms,51.718066,-0.219123,Water End,Mimmshall Brook,0.435
+Pillaton,50.440154,-4.298799,Pillaton,River Lynher,0.411
+Jeffy Knotts,54.422024,-2.98839,Jeffy Knotts,River Brathay,1.332
+Lodge Farm,51.263973,-0.950093,North Warnborough,Whitewater,0.201
+Creeting,52.167176,1.05147,Creeting St Mary,Stonham Watercourse,0.291
+Bramham Screens,53.880307,-1.355437,Bramham,Bramham Beck,0.214
+Chipping Sodbury,51.542061,-2.385953,Chipping Sodbury,Bristol Frome,0.65
+Wembley,51.562196,-0.27948,Wembley,Wealdstone Brook,0.274
+Durham New Elvet Bridge,54.776573,-1.57257,Durham,River Wear,0.593
+Keswick Campsite,54.601275,-3.1492,Keswick,River Greta,1.431
+Leintwardine,52.359087,-2.876144,Leintwardine,River Teme,0.963
+Bradford on Avon,51.34297,-2.266608,Westwood,River Avon,1.214
+Swanage Prospect Farm Swan Brook,50.613227,-1.971617,Swanage,Swan Brook,0.385
+Fiddlers Ferry,53.374184,-2.653505,Penketh,Mersey,3.821
+Hynam Bridge,54.894613,-2.686767,Castle Carrock,Gelt,0.656
+Rockhay Bridge,50.843021,-4.122236,Sheepwash,River Torridge,0.946
+Ugly Dub,55.181833,-2.45222,Kielder reservoir,River North Tyne,0.781
+Lamorbey Park,51.440152,0.113674,Sidcup,Shuttle Tributary  Cray,0.453
+Aylesbury,51.817792,-0.801624,Aylesbury,Bear Brook,1.194
+Huddersfield Longroyd Bridge,53.641316,-1.795095,Huddersfield,Colne,0.721
+Blunham,52.144358,-0.316453,Blunham,River Ivel,0.321
+Leatherhead,51.294985,-0.336089,Leatherhead,Mole,1.921
+Molingey,50.311776,-4.800075,London Apprentice,St Austell River,0.689
+Temple,52.326416,0.578416,Icklingham,Lark,0.414
+Lower Stratton,51.569689,-1.735909,Stratton St Margaret,Cole,2.015
+Bat Bridge,54.145714,-1.36005,Cundall,Cundall Beck,0.163
+Hayhurst Bridge,53.258272,-2.51651,Northwich,Weaver,0.706
+Whitwell,51.876889,-0.28128,Whitwell,Mimram,0.04
+Killington,54.310113,-2.582471,Killington,Lune,0.796
+Barton on Humber,53.689056,-0.441274,Barton-Upon-Humber,Barton Haven,0.281
+Loudwater,51.609179,-0.699391,Loudwater,Wye,
+Grinton Bridge,54.381959,-1.929135,Grinton,River Swale,0.224
+Panshanger,51.803418,-0.141267,Tewin,Mimram,0.482
+Delph,53.566913,-2.021999,Delph,Tame,0.393
+Old Windsor Lock,51.463198,-0.569077,Old Windsor,Thames,0.223
+Sakeham Weir,50.957409,-0.265959,Wineham,Adur,1.414
+Buntingford,51.946826,-0.016987,Buntingford,Rib,0.059
+Culham Lock,51.6506,-1.267131,Culham,Thames,0.138
+Haweswater Reservoir,54.534679,-2.769772,Haweswater Reservoir,Haweswater Reservoir,27.532
+Little Woolden Hall,53.440813,-2.475817,Glazebrook,Glaze Brook,1.142
+Matson Place,51.85211,-2.233328,Gloucester,Sud Brook,0.251
+Moreton,51.739256,0.219552,Moreton,Cripsey Brook,0.408
+Forest Row,51.095381,0.052195,Forest Row,Medway,0.349
+Thrupp,51.840425,-1.30005,Thrupp,Cherwell,1.089
+Benson Lock,51.617191,-1.116011,Benson,Thames,0.093
+Sidbury,50.717781,-3.219793,Sidbury,River Sid,0.351
+Huntingfield,52.318638,1.425054,Huntingfield,Huntingfield Watercourse,1.299
+Keynsham US,51.419019,-2.487954,Keynsham,River Avon,4.962
+Wakefield Westgate,53.680366,-1.509072,Wakefield,Ings Beck,0.462
+Lydney,51.72971,-2.534804,Lydney,River Lyd,0.267
+Henthorn,53.848003,-2.424337,Great Mitton,Ribble,1.038
+Cropple Howe,54.36799,-3.339036,Eskdale Green,Esk (Cumbria),0.68
+Holt Mill Bridge,53.693137,-2.257828,Waterfoot,Irwell,0.374
+Fenny Castle,51.191655,-2.719186,Godney,River Sheppey,0.288
+The Causeway,51.824551,-2.297854,Gloucester,Dimore Brook,0.346
+Padiham Town Centre,53.800228,-2.314843,Padiham,River Calder,0.756
+Langworth,53.275665,-0.402812,Langworth,Barlings Eau,0.66
+Maidstone,51.271553,0.518493,Maidstone,Medway,0.519
+Chesterfield Park Road Bridge,53.232965,-1.430996,Chesterfield,River Hipper,0.087
+Bradworthy,50.90173,-4.392867,Bradworthy,River Waldon,0.448
+Little Walsingham,52.891548,0.874601,Little Walsingham,River Stiffkey,0.22
+Kildwick,53.907443,-1.984735,Kildwick,River Aire,1.006
+Skibeden Beck,53.960831,-2.011844,Skipton,Haw Beck,0.315
+Bamber Bridge,53.724643,-2.670129,Bamber Bridge,Lostock,0.346
+Stoke Bottom Farm,51.230768,-2.487678,Nettlebridge,Mells River,0.125
+Knettishall,52.390173,0.871573,Knettishall,Little Ouse,0.132
+Port Isaac,50.589157,-4.830228,Port Isaac,Coastal Stream,0.187
+Cardington,52.126329,-0.429108,Bedford,River Great Ouse,23.792
+Waterhouses,53.04899,-1.879122,Waterhouses,River Hamps,0.405
+New Bridge,51.022515,-0.477328,Newpound Common,Arun,8.928
+Gwithian,50.229594,-5.388678,Gwithian,Red,0.86
+Bovey Parke,50.595603,-3.682853,Bovey Tracey,River Bovey,0.567
+Middleton,54.620104,-2.080488,Middleton-In-Teesdale,River Tees,0.766
+Brampton Sluice,52.319854,-0.205625,Brampton,River Great Ouse,0.125
+Galgate,53.991743,-2.792162,Galgate,Conder,0.333
+Sladesbridge,50.509303,-4.80481,Sladesbridge,River Camel,0.133
+Frilsham,51.453438,-1.228555,Frilsham,Pang,0.171
+Langrick Bridge,53.009861,-0.11602,Hedgehog Bridge,Witham,0.751
+Crakehill,54.153752,-1.350739,Cundall,River Swale,2.161
+Wantage,51.588848,-1.431205,Wantage,Letcombe Brook,0.468
+Hungerford Dun,51.414788,-1.539372,Hungerford,Dun,0.072
+Sedgwick,54.280023,-2.755861,Sedgwick,Kent,0.732
+Shaw,51.410964,-1.325174,Donnington,Lambourn,0.171
+Huish Episcopi PS,51.031606,-2.799018,Langport,Longload Main Drain,0.984
+Walthamstow,51.603395,-0.012274,Walthamstow,Ching Brook,1.544
+"Yeading, Brookside Road",51.518702,-0.391757,Southall,Yeading Brook,0.597
+Marsh Farm,51.448604,-0.339937,Twickenham,Crane,0.148
+Rawcliffe,53.977937,-1.118128,Rawcliffe,Blue Beck,0.576
+"Pilling, Broadfleet",53.932062,-2.905476,Pilling,Broadfleet,1.074
+Donyatt,50.921842,-2.940546,Donyatt,River Isle,0.287
+Staines Trading Estate,51.437123,-0.512241,Staines,Colne,1.174
+Polstead,52.003937,0.890968,Polstead,River Box,0.193
+Beckenham,51.406058,-0.024366,Beckenham,The Beck,0.659
+Walton,51.3919,-0.421389,Walton-On-Thames,Thames,3.375
+Ilkley,53.929346,-1.83091,Ilkley,River Wharfe,0.678
+Pyotts Bridge,51.278294,-1.045224,Old Basing,Loddon,1.053
+Orton Sluice,52.560077,-0.281816,Peterborough,Nene (Orton - Wash),1.273
+Cummersdale,54.865626,-2.944447,Cummersdale,River Caldew,0.832
+Carshalton Ponds,51.367034,-0.162812,Carshalton,Wandle,0.06
+Blackwater Bridge,51.330889,-0.775604,Blackwater,River Blackwater,1.425
+Portmarsh Lane,51.074943,-4.050919,Barnstaple,Coney Gut,0.234
+Hexham Tanners Row In screen,54.973809,-2.105629,Hexham,Cockshaw Burn,0.006
+Springfield,51.736622,0.479442,Chelmsford,River Chelmer,0.246
+Calgarth (Trout beck Bridge),54.390814,-2.931474,Calgarth (Trout beck Bridge),Trout Beck,
+Fairford,51.709394,-1.783971,Fairford,Coln,1.066
+Colliters Brook,51.427707,-2.63391,Bishopsworth,Colliters Brook,0.374
+Briantspuddle,50.739761,-2.25333,Briantspuddle,River Piddle,0.413
+Scrasebridge,51.006255,-0.079888,Lindfield,Ouse [So],0.203
+Bull Gill,54.732405,-3.405386,Allerby,River Ellen,0.631
+Abingdon,51.684602,-1.282696,Abingdon,Stert,0.632
+Haydon Bridge,54.976681,-2.226498,Haydon Bridge,River South Tyne,0.884
+Church Warsop,53.206134,-1.165417,Market Warsop,River Meden,0.312
+Clifford Bridge,50.695696,-3.739489,Drewsteignton,River Teign,0.727
+Knaresborough,54.008443,-1.47066,Knaresborough,River Nidd,0.747
+Winchelsea Strand Bridge,50.923434,0.72054,Winchelsea Beach,Brede,1.29
+Boscastle New Mills,50.691075,-4.694207,Boscastle,River Valency,
+Kingsclere,51.325621,-1.249358,Kingsclere,Kingsclere Brook,0.149
+Farnborough,51.29741,-0.739058,Mytchett,River Blackwater,0.984
+Mardock,51.814817,0.020302,Wareside,Ash (Hertfordshire),0.143
+Throop,50.763832,-1.84203,Throop,River Stour,0.589
+South Cerney,51.673897,-1.934146,South Cerney,Churn,0.667
+Warwick,52.284932,-1.562658,Warwick,River Avon,1.24
+Hall Place,51.445998,0.158543,Coldblow,Cray,0.26
+Vauxhall Bridge,51.29566,1.088238,Hales Place,Great Stour,0.265
+Heugh Mill,55.038816,-1.859136,Stamfordham,River Pont,0.191
+Walsden,53.690792,-2.101414,Walsden,River Calder,0.174
+Clyst Honiton,50.733158,-3.437637,Clyst Honiton,River Clyst,0.707
+Manchester Racecourse,53.499526,-2.271756,Broughton,Irwell,1.694
+Onibury,52.405995,-2.80328,Onibury,River Onny,1.341
+Toddington,51.999754,-1.952083,Toddington,River Isbourne,0.375
+Clanfield,51.719421,-1.588977,Clanfield,Clanfield Brook,0.677
+Wedderburn Bridge,51.909034,-2.32673,Highleadon,River Leadon,0.399
+Sheepbridge,51.381826,-0.966655,Swallowfield,Loddon,0.267
+Bonehurst Bridge,51.186743,-0.163694,Horley,Burstow Stream,3.055
+Parbold,53.588789,-2.773605,Newburgh,Douglas,0.879
+Broadwey,50.653725,-2.473258,Weymouth,River Wey,0.259
+Eastington,51.753386,-2.322244,Stroud,Frome (MI),0.504
+Langford Village,51.895439,-1.13585,Launton,Langford Brook (Bicester),0.541
+Blewbury,51.573061,-1.233747,Blewbury,Mill Brook,0.153
+Shepperton Lock,51.382892,-0.458071,Weybridge,Thames,0.227
+Stoneham Lane,50.953881,-1.370394,Swaythling,Monks Brook,0.23
+Whetstone,52.553447,-1.171951,Whetstone,Whetstone Brook,0.226
+Moreton,51.988876,-1.697906,Moreton in Marsh,Evenlode,0.156
+Cassington Weir A,51.786053,-1.351198,Cassington,Evenlode,0.358
+Sandon Bridge,51.720457,0.539834,Sandon,Sandon Brook,0.115
+Pool Bridge,53.905078,-1.630095,Pool,River Wharfe,1.043
+Shipton,51.861678,-1.594363,Shipton Under Wychwood,Evenlode,0.778
+Parsons Street,51.207333,-3.596358,Porlock,Hawkcombe Stream,-0.016
+Dronfield,53.302721,-1.472506,Dronfield,River Drone,0.112
+Lamberhurst,51.1015,0.392574,Lamberhurst,Teise,0.554
+Slade Brook,52.377799,-0.720415,Barton Seagrave,Ise,0.179
+Darton,53.58418,-1.52866,Darton,River Dearne,0.522
+Glenfield,52.648317,-1.215391,Glenfield,Rothley Brook,0.979
+Shalford,51.220824,-0.569459,Shalford,Tillingbourne,0.221
+Lowdham,53.024857,-1.028024,Epperstone,Dover Beck,0.201
+Portinscale,54.604556,-3.159541,Portinscale,River Derwent,1.313
+Knighton Side,51.436872,-1.577706,Whittonditch,Kennet,0.092
+Shillingthorpe,52.68874,-0.412477,Greatford,West Glen (To Kates Bridge),0.101
+Roxton,52.166195,-0.309298,Roxton,River Great Ouse,0.5
+Upavon West,51.302514,-1.809882,Upavon,River Avon,0.212
+Ashford in the Water,53.223665,-1.727504,Ashford in the Water,River Wye,0.581
+Hannington Bridge,51.663588,-1.749677,Hannington Wick,Thames,2.719
+Threadfold Way,53.613958,-2.427881,Eagley,Eagley Brook,0.41
+Abingdon Lock,51.670388,-1.268257,Abingdon,Thames,0.103
+Stockton Primrose Hill,54.574258,-1.316493,Stockton On Tees,Lustrum Beck,4.233
+Ashburton Lower,50.5162,-3.757538,Ashburton,River Ashburn,0.267
+Nunnington,54.215889,-0.969759,Nunnington,River Riccal,0.417
+Allington,52.94938,-0.702125,Allington,Foston Beck,0.169
+Catcliffe,53.390594,-1.361999,Catcliffe,River Rother,25.571
+Castle Bytham,52.755941,-0.534509,Castle Bytham,West Glen (To Kates Bridge),0.147
+Craigshill Wood,50.465604,-4.55955,St Neot,St Neot River,0.226
+South Bridge,52.230338,-0.897436,Northampton,Nene,1.172
+Yiewsley,51.509078,-0.47713,Yiewsley,Frays,0.79
+Cambridge Baits Bite,52.236542,0.176925,Milton,River Cam,0.247
+Harraby Green Business Park,54.879957,-2.917974,Harraby Green Carlisle,Petteril,0.785
+Alton High Street,51.149557,-0.976568,Alton,Wey,0.086
+"Seaton Mill, Barepot, Workington",54.650538,-3.52206,"Seaton Mill, Barepot, Workington",River Derwent,1
+Hundred House Bridge,50.950221,0.630976,Broadland Row,Royal Military Canal Outflow Sea,0.541
+Bishop Monkton,54.090598,-1.497502,Bishop Monkton,Bishop Monkton Beck,0.218
+Tilford,51.181979,-0.750222,Tilford,Wey,0.69
+Beeding Bridge,50.882836,-0.306828,Upper Beeding,Adur,1.268
+Stanford Vale,51.632965,-1.505814,Stanford In The Vale,Ock,0.209
+Dacre Bridge,54.628797,-2.837846,Dacre,Dacre Beck,0.499
+Weldon Flood Storage Reservoir,52.493886,-0.649292,Weldon,Willow Brook,0.054
+Cogenhoe,52.246264,-0.779863,Cogenhoe,Nene (N'hampton-Wollaston),0.349
+Morwick,55.333528,-1.631891,Morwick,River Coquet,0.692
+Whetstone Bridge,51.667039,-1.816893,Marston Meysey,Marston Meysey Brook,0.132
+Keadby,53.591975,-0.738178,Keadby,River Trent,3.379
+Riseley,52.249147,-0.485347,Riseley,River Kym,1.135
+Brushford,51.021855,-3.53136,Brushford,River Barle,0.562
+Webbs Hole Sluice,52.320879,-0.002271,Over,Swavesey Drain,0.572
+Dutlas,52.394857,-3.160345,Dutlas,River Teme,0.54
+Lanchester Front Street,54.82499,-1.744671,Lanchester,Smallhope Burn,0.313
+Fotheringhay,52.526819,-0.428685,Fotheringhay,Willow Brook,0.19
+Pimlico Brook,53.877796,-2.387601,Clitheroe,Pimlico Brook,0.208
+Perrancoombe,50.340195,-5.15746,Perranporth,Perrancombe Stream,0.341
+Thornton Heath,51.394765,-0.097302,South Norwood,Norbury Brk,1.024
+Tamarstone Bridge,50.823657,-4.438698,Kingford,River Tamar,0.852
+"Ickenham, Swakeleys Road",51.565274,-0.452775,Ickenham,Pinn,0.8
+Tenbury,52.313207,-2.591539,Tenbury Wells,River Teme,1.549
+Kenwith Castle,51.023856,-4.236897,Kenwith,Kenwith Stream,0.476
+Kingscroft Road,51.85196,-2.18652,Gloucester,Wotton Brook,0.364
+Selby Lock,53.782406,-1.057504,Selby,River Ouse,3.94
+Crudgington,52.754258,-2.534083,Crudgington,River Strine,0.653
+West Marsh Washlands,53.707591,-1.056828,Hirst Courtney,West Bank Pond,0.544
+Great Corby,54.890119,-2.830743,Wetheral,Eden,1.562
+Shipley Gate,53.003454,-1.310004,Shipley,River Erewash,1.711
+Wyre Piddle,52.126787,-2.056054,Wyre Piddle,Piddle Brook,0.239
+Hady Hill,53.233706,-1.418671,Chesterfield,River Rother,1.147
+"Hillingdon, Charville Lane",51.541775,-0.418198,Hillingdon,Yeading Brook,0.847
+Taw Bridge,50.845457,-3.886253,Brushford,River Taw,0.287
+Riding Mill,54.952174,-1.959366,Riding Mill,River Tyne,1.625
+Hodder Place,53.855184,-2.451318,Great Mitton,Hodder,0.76
+Vallis,51.240687,-2.349087,Great Elm,Mells River,0.345
+Clavering,51.965459,0.146003,Clavering,Stort,0.375
+Bampton Bridge,50.989182,-3.484134,Bampton,River Batherm,0.302
+Milford,52.791503,-2.038506,Milford,River Sow,1.202
+Pishiobury Brook,51.795404,0.134177,Harlow,Pishiobury Brook,0.973
+Clomoney Way,51.881479,-2.206851,Gloucester,Horsbere Brook,0.442
+Boulters Lock,51.532713,-0.699466,Taplow,Thames,0.278
+Knowle Green,51.430935,-0.496618,Staines,Ash (Surrey),0.435
+Portsmouth Lennox Road,53.732082,-2.153506,Portsmouth,River Calder,0.589
+Ensbury,50.768235,-1.876842,Ensbury,River Stour,0.745
+River Freshney Grimsby,53.574576,-0.108253,Great Coates,Laceby Beck,0.353
+Elvington Sluices,53.917956,-0.929601,Elvington,River Derwent,5.583
+Ewood,53.731625,-2.490617,Lower Darwen,Darwen,0.576
+West Sedgemoor PS,51.053328,-2.891431,Stathe,River Parrett,6.084
+London Colney,51.719476,-0.289861,London Colney,Colne,1.02
+Burnbanks,54.536126,-2.762643,Bampton,Haweswater Beck,0.104
+"Luton, Stockingstone Road",51.896722,-0.419615,Stopsley,Lee (Upper),0.144
+Titley Mill,52.220498,-2.984666,Titley Mill,Arrow,0.695
+Eynsham Lock,51.774692,-1.356854,Swinford,Thames,0.167
+Dorchester,51.641035,-1.163757,Dorchester,Thame,0.593
+Hinton On Green,52.064842,-1.966688,Hinton On The Green,River Isbourne,0.163
+Witton Park,54.67286,-1.733251,Witton Park,River Wear,0.758
+Myton-On-Swale,54.094667,-1.334108,Myton-On-Swale,River Swale,2.744
+Truscott,50.639598,-4.407654,Launceston,River Kensey,0.619
+North Drain,51.199702,-2.861707,Burtle,North Drain,1.69
+Redbridge,52.492126,0.938899,Shropham,Thet,0.735
+Gurney Street,53.481022,-2.212509,Ancouts,Medlock,0.534
+Ashton Vale,51.439017,-2.62578,Leigh Woods,River Avon,1.036
+Roall Ings,53.721999,-1.149345,Salt end,Roall Dyke,0.393
+Wadesmill,51.839044,-0.027533,Wadesmill,Rib,0.252
+Parkend,51.764493,-2.556805,Parkend,River Lyd,0.118
+Tubbs Bottom,51.543699,-2.464859,Iron Acton,Bristol Frome,0.385
+North Fareham weir,50.863667,-1.166426,Wallington,Wallington,0.713
+"Malton, A64 Road Bridge",54.146645,-0.759757,Old Malton,River Derwent,1.896
+Sydling St Nicholas,50.795256,-2.522871,Sydling St Nicholas,Sydling Water,0.122
+Uckfield Mill upstream,50.968752,0.097884,Uckfield,Uck,0.67
+St Ives Consols Farm,50.206022,-5.49846,St Ives,River Stennack,0.113
+Squires Bridge,53.329892,-0.644055,Thorpe Le Fallows,Till,1.269
+Woolstone Mill,50.788684,-4.516349,Titson,River Neet,0.4
+Lambourn,51.508084,-1.530219,Lambourn,Lambourn,0.785
+"Stock Beck, Jewsons Yard",54.3317,-2.736971,Kendal,Stock Beck,0.353
+Lea Bridge,51.567832,-0.051025,Stoke Newington,Lee,5.798
+Abridge,51.65178,0.119024,Abridge,Roding,1.309
+Midelney,51.008129,-2.832096,Langport,River Isle,0.868
+Dowsby Fen,52.849491,-0.275979,Gosberton Clough,South Forty Foot,0.471
+Guithavon Valley,51.801923,0.634694,Witham,River Brain,0.271
+Ripon Ure Bank,54.143859,-1.515258,Sharow,River Ure,0.57
+Wootton Park,52.212737,-0.938853,Rothersthorpe,Wootton Brook,0.191
+Willowbank,51.559236,-0.484082,Denham,Colne,0.89
+Warkworth,55.348353,-1.608289,Warkworth,River Coquet,0.824
+Sheffield Station,53.376972,-1.463457,Sheffield,Porter Brook,0.12
+Chiselborough,50.92686,-2.768537,Chiselborough,River Parrett,0.131
+Sheffield Blackburn,53.429981,-1.423463,Rotherham,Blackburn Brook,0.066
+Simonsbath,51.13829,-3.758506,Simonsbath,River Barle,0.37
+Clipstone Brook,51.924207,-0.634231,Leighton Buzzard,Clipstone Brook,0.154
+Luxulyan,50.390824,-4.753487,Luxulyan,Par River,0.412
+Skinningrove,54.567493,-0.898737,Skinningrove,Kilton Beck,4.319
+Ebley Mill,51.740019,-2.24687,Stroud,River Frome,0.371
+Addingham,53.939721,-1.862096,Langbar,River Wharfe,0.906
+Boxford,52.028438,0.858403,Boxford,River Box,1.219
+Long Melford,52.080294,0.724408,Long Melford,Chad Brook,0.345
+Newnham Park,50.401002,-4.039339,Plympton,Tory Brook,0.432
+Eastville,51.470324,-2.566101,Eastville,Bristol Frome,7.895
+Iwood,51.363932,-2.788918,Congresbury,Congresbury Yeo,0.177
+Ledgard Bridge,53.671578,-1.697228,Mirfield,River Calder,0.891
+"Hemel Hempstead, Two Waters Road",51.741057,-0.47337,Hemel Hempstead,Bulbourne,0.249
+Chapel Haddlesey,53.730048,-1.128583,Chapel Haddlesey,River Aire,0.865
+Tanfield,54.887182,-1.700147,Tanfield,River Team,0.321
+Downton Iron Bridge,50.994106,-1.748006,Downton,River Avon,
+"Greenford,Costons Lane",51.527366,-0.344873,Greenford,Brent,0.576
+Brislington,51.431118,-2.553489,Brislington,Brislington Brook,0.178
+Kilgram,54.269289,-1.708806,Thornton Steward,River Ure,1.113
+East Stoke,50.681026,-2.189136,East Stoke,River Frome,1.013
+Lower Camden,51.411956,0.051097,Bickley,Kyd Brook,0.946
+Low Marishes,54.185605,-0.725015,Low Marishes,River Derwent,2.52
+Beal Bridge,53.59901,-2.095119,Newhey,Beal,0.412
+East Mills Weir,50.928405,-1.777274,Fordingbridge,River Avon,0.716
+Horncastle Victoria Mill,53.210372,-0.117717,Horncastle,Bain,0.296
+Catcliffe Drain,53.390594,-1.361999,Rotherham,Catcliffe Drain,25.635
+Little Bridge,52.568529,-0.123188,Whittlesey,Nene (Orton - Wash),0.102
+Melbourne Park Carlisle,54.889748,-2.913769,Melbourne Park Carlisle,River Petteril,1.069
+Stockton,54.562523,-1.309081,Hartburn,River Tees,2.558
+North Finchley,51.614894,-0.189437,Totteridge,Dollis Brook,0.468
+Cerney Wick,51.665333,-1.891795,Cerney Wick,Churn,0.406
+Bromley South,51.400276,0.019377,Bromley,Ravensbourne,0.128
+Harrowden,52.334238,-0.683513,Great Harrowden,Ise,0.301
+Beal Weir Bridge,53.723209,-1.198257,Beal,River Aire,1.437
+Wimborne,50.789681,-1.971312,Oakley,River Stour,0.598
+Upper Tean,52.953586,-1.989532,Upper Tean,River Tean,0.469
+Shipston,52.062264,-1.622014,Shipston-On-Stour,River Stour (Warks),0.461
+Thames Ditton Island,51.393384,-0.331228,Long Ditton,Thames,4.687
+Penny Bridge,54.065287,-2.285676,Giggleswick,Ribble,0.752
+Brixworth,52.329443,-0.919921,Brixworth,Nene - Brampton Branch,0.184
+Lower Nazeing,51.735268,0.019953,Lower Nazeing,Nazeing Brook,1.154
+Hartburn,55.177213,-1.871211,Hartburn,River Hartburn,0.181
+Milverton,51.035518,-3.265957,Milverton,Hillfarrance Brook,0.194
+Bromyard,52.191185,-2.501355,Bromyard,Frome,0.645
+Ashclyst,50.776088,-3.403906,Ashclyst,River Clyst,0.203
+Adelphi Weir,53.485246,-2.26639,Salford,Irwell,0.824
+Ramshaw Mill,54.629699,-1.755963,West Auckland,River Gaunless,0.236
+"Pinner, Avenue Road",51.597129,-0.381769,Pinner,Pinn,0.336
+Easby,54.470289,-1.098857,Easby,River Leven,0.246
+Weston Turville,51.78506,-0.75797,Weston Turville,Wendover Springs,0.317
+Days Lock,51.638206,-1.179444,Little Wittenham,Thames,0.113
+Irwell Vale,53.677382,-2.317104,Edenfield,Irwell,0.644
+Eversley,51.356292,-0.888384,Eversley,River Blackwater,0.745
+Hookagate,52.678113,-2.791698,Hookagate,Rea Brook,0.539
+Belmont,52.045084,-2.752202,Belmont,Wye,2.49
+Bridgnorth,52.534933,-2.415835,Bridgnorth,River Severn,1.854
+Cam,51.699985,-2.360238,Cam,River Cam,0.84
+Ferrybridge Fishergate,53.71016,-1.264561,Ferrybridge,Wash Dike,0.076
+Newbridge Weir A,51.713499,-1.420988,Standlake,Windrush,0.305
+Marsh Lock,51.528776,-0.885703,Harpsden,Thames,0.247
+Shepshed,52.78322,-1.279553,Shepshed,Black Brook (Soar),0.795
+Brede Sluice Gate,50.945909,0.731007,Rye,Brede,1.205
+Otley,53.907954,-1.694001,Otley,River Wharfe,0.636
+Flash Bridge,51.121978,-0.510356,Alfold Crossways,Cranleigh Waters,2.542
+Woolley Bridge,53.461005,-1.9867,Hollingworth,Etherow,0.807
+Windsor Park,51.485795,-0.589124,Datchet,Thames,3.379
+"Enfield, Ordance Road",51.671889,-0.019618,Sewardstone,Small River Lee,0.265
+Steventon,51.621195,-1.323534,Steventon,Ginge Brook,0.641
+Brimpton,51.379146,-1.185549,Wasing,Enborne,0.363
+Basford Bridge,53.06433,-2.026812,Cheddleton,River Churnet,0.765
+Bathford,51.401613,-2.310449,Batheaston,River Avon,1.063
+Pulborough Swan Bridge,50.956335,-0.513508,Pulborough,Arun,1.688
+Bodmin St Petrocs Well,50.468455,-4.713137,Bodmin,Bodmin Town Leat,0.061
+South Emsall,53.599988,-1.294189,South Emsall,Ea Beck,0.22
+Brixton Deverill,51.141596,-2.204737,Monkton Deverill,River Wylye,0.232
+Syston,52.706226,-1.091508,Cossington,River Wreake,1.649
+Ashburton Upper,50.521452,-3.756985,Ashburton,River Ashburn,0.406
+Viewly Bridge,54.323263,-1.461847,Warlaby,River Wiske,0.482
+Billingborough Ousemere,52.89634,-0.340975,Billingborough,South Forty Foot,0.161
+Ripponden,53.666557,-1.948497,Ripponden,River Ryburn,0.413
+Marlborough,51.416287,-1.732479,Marlborough,Kennet,0.19
+Woking South,51.294424,-0.57291,Mayford,Hoe Stream,0.995
+Elland,53.694286,-1.813678,Elland,River Calder,0.775
+Stafford Bridge,51.130927,-0.213274,Ifield,Mole,1.254
+Broadway Foot,54.287705,-1.141251,Hawnby,River Rye,0.344
+Rattlesden,52.192763,0.889367,Rattlesden,Rattlesden River,0.218
+Burwash,50.990993,0.390419,Burwash,River Rother,0.504
+Gainsborough,53.392687,-0.776833,Gainsborough,River Trent,3.816
+Pixton,51.023183,-3.519869,Pixton,River Exe,0.393
+ICI Colne,53.662709,-1.748745,Huddersfield,River Colne,0.5
+Ponts Vale,50.370495,-4.710608,Tywardreath Highway,Par River,0.285
+Allbrook weir,50.987637,-1.34415,Colden Common,Itchen,0.489
+Shepherd Road,51.835524,-2.26623,Gloucester,Whaddon Brook,0.058
+Heighington Beck,53.212345,-0.44111,Heighington,Heighington Beck,0.088
+Tadcaster,53.890881,-1.275696,Tadcaster,River Wharfe,0.818
+Adwick,53.512513,-1.282162,Harlington,River Dearne,0.484
+"Kingfisher, Cockermouth",54.663532,-3.370199,"Kingfisher, Cockermouth",River Derwent,1.449
+Beach's Mill,51.737776,0.446263,Chelmsford,River Can,0.4
+Fenny Bridges,50.780011,-3.257213,Fenny Bridges,River Otter,0.284
+Buildwas,52.636354,-2.524962,Buildwas,River Severn,2.57
+Sprotbrough,53.507062,-1.18877,Sprotbrough,River Don,0.688
+Otterburn Mill,55.227922,-2.17683,Otterburn,River Rede,1.104
+Great Bridgford,52.839744,-2.174088,Great Bridgeford,River Sow,0.753
+Wimpole,52.118971,-0.054461,Wimpole,River Rhee,0.155
+Cambridge Jesus Lock,52.212835,0.120872,Cambridge,River Cam,0.73
+Staines Moor,51.45237,-0.520468,Hythe End,Wraysbury River,0.094
+Ringwood Riverside Terrace,50.843259,-1.793572,Ringwood,Bickerly Mill Stream,0.619
+Mattersey,53.397737,-0.964956,Mattersey,River Idle,0.929
+Kydbrook Close,51.382923,0.075811,Petts Wood,Kyd Brook,0.512
+Dalton,54.183434,-1.354871,Dalton,Cod Beck,2.132
+Buscot Lock,51.68119,-1.668729,Buscot,Thames,0.115
+Stockbridge,53.876388,-1.891964,Stockbridge,River Aire,0.629
+Farmoor,51.757544,-1.366384,Farmoor,Thames,0.947
+Bleach Green Weir,54.525555,-3.416967,Ennerdale Bridge,River Ehen,0.679
+Abercairn Road,51.416099,-0.143444,Streatham,Graveney,0.941
+Westover PS,51.034896,-2.833902,Langport,Huish Level Rhyne,0.587
+"Eamont Bridge, Beehive, River Lowther",54.649895,-2.737527,"Eamont Bridge, Beehive, River Lowther",River Lowther,0.742
+Dernford,52.134462,0.141784,Great Shelford,River Cam,0.124
+Barford Bridge,52.43909,-0.734823,Newton,Ise,0.155
+Norham,55.722365,-2.16338,Norham,Tweed,2.887
+Rye Meads,51.769207,0.016685,Roydon,Rye Meads Effluent Channel,0.354
+Chester-Le-Street,54.854785,-1.560716,Chester-Le-Street,River Wear,0.75
+Hail Weston,52.253951,-0.309376,Hail Weston,River Kym,0.284
+Kirkstead Bridge,53.143044,-0.241774,Martin Dales,Witham,0.449
+Low Houses,54.290034,-2.258043,High Houses,Snaizeholme Beck,0.278
+Werrington,50.655106,-4.353424,Werrington Park,River Ottery,0.348
+Aylesbury Thame,51.826251,-0.856541,Stone,Thame,0.655
+Canonbie (SEPA Site),55.066848,-2.946363,Canonbie,Esk (Border),1.316
+Pontefract Wash Dike,53.699599,-1.292918,Pontefract,Wash Dike,0.162
+Westy,53.390658,-2.560365,Westy,Mersey,4.231
+Chesterfield,53.231179,-1.454659,Walton,River Hipper,0.526
+Harwood,54.672926,-2.234106,Langdon Common,Harwood Beck,0.325
+Castle Foregate,52.714919,-2.749968,Shrewsbury,Bagley Brook,0.124
+Lea Marston,52.541117,-1.695622,Lea Marston,River Tame,0.587
+West Kington,51.493159,-2.280981,West Kington,By Brook,0.072
+Alma Weir,54.13342,-1.51864,Ripon,River Skell,0.444
+Stinsford,50.71564,-2.409207,Stinsford,River Frome,0.331
+Henley River,52.29694,-1.777373,Henley-In-Arden,River Alne,0.467
+Walkern,51.919973,-0.123165,Walkern,Beane,0.122
+Bartley Mill,51.097082,0.330342,Wadhurst,Teise,0.746
+Chatsworth,53.211297,-1.610938,Carlton Lees,River Derwent,1.554
+Oakworth Mytholmes Lane,53.840383,-1.945702,Oakworth,Worth,0.285
+Guildford,51.236036,-0.578011,Guildford,Wey,1.561
+Penzance Alverton,50.117377,-5.552432,Penzance,Lariggan River,0.108
+Congleton Park,53.166353,-2.209364,Congleton,Dane,0.172
+Blakes Lock,51.456172,-0.954614,Reading,Kennet,0.161
+Peeks Brook Lane,51.161389,-0.135668,Burstow,Burstow Stream,1.486
+Great Haywood,52.805262,-2.011076,Great Haywood,River Trent,1.444
+Hereford Bridge,52.051748,-2.720173,Hereford Bridge,Wye,2.458
+"Calder Drive, Kendal",54.329748,-2.729924,"Calder Drive, Kendal",Stock Beck,0.374
+"Masham, Swinney Beck",54.222378,-1.661545,Masham,Swinney Beck,0.294
+Penton Hook,51.414528,-0.499731,Laleham,Thames,0.213
+Midelney,51.008129,-2.832096,Langport,West Moor Drain,0.655
+Bletchley,51.981248,-0.715727,Water Eaton,River Ouzel,0.388
+Kielder Butteryhaugh,55.230707,-2.581702,Butteryhaugh,River North Tyne,0.48
+Fordham,52.306909,0.351099,Fordham,Snail,0.262
+Willington,52.848235,-1.562071,Willington,River Trent,1.973
+Sandford Bridge,51.928793,-2.524006,Sandford Bridge,Rudhall Brook,0.202
+Penistone,53.527445,-1.645761,Penistone,River Don,0.56
+Hadleigh,52.047653,0.950823,Hadleigh,River Brett,0.425
+Eardisland,52.223407,-2.851042,Eardisland,Arrow,0.676
+Chart Leacon,51.145063,0.846976,Great Chart,Great Stour,0.335
+Pen Mill,50.943504,-2.608654,Yeovil,River Yeo,0.284
+Brownshill,52.335738,0.008586,Bluntisham,River Great Ouse,0.304
+Waren Mill,55.602485,-1.769011,Warenmill,Waren Burn,0.15
+Shifford Lock,51.70718,-1.465193,Shifford,Thames,0.134
+Swans Nest,50.681467,-3.470581,Exminster,Exminster Marshes,0.413
+Welham Bridge,53.798879,-0.799526,Welhambridge,River Foulness,0.189
+Motspur Park,51.393329,-0.241392,New Malden,Beverley Brook,0.933
+Staveley,53.26654,-1.337263,Woodthorpe,River Doe Lea,0.659
+New Malden,51.410502,-0.247204,New Malden,Beverley Brook,0.876
+Bin Brook,52.197227,0.087527,Cambridge,Bin Brook,0.232
+Stubbins,53.664894,-2.315043,Stubbins,Irwell,0.443
+Sebergham,54.774406,-2.993311,Sebergham,Caldew,0.802
+Riverside Park,50.935796,-1.368504,Swaythling,Itchen,1.881
+Trumps Green,51.399312,-0.56131,Virginia Water,Chertsey Bourne,0.919
+Frome Rodden,51.230803,-2.308252,Frome Rodden,Somerset Frome,0.617
+Wookey,51.209432,-2.678492,Wookey,River Axe,0.662
+Quidenham,52.450441,0.982414,East Harling,River Whittle,0.187
+Heaton Lodge,53.681545,-1.730465,Mirfield,River Calder,0.575
+Epney,51.797035,-2.348106,Epney,River Severn,2
+Kirkby Stephen,54.482067,-2.351872,Kirkby Stephen,Eden,0.569
+Swimbridge,51.053143,-3.969407,Swimbridge,Landkey Brook,0.28
+Newport Pagnell,52.089506,-0.721934,Newport Pagnell,River Great Ouse,0.521
+Farndon,53.062491,-0.852881,Farndon,River Trent,0.611
+Chew Stoke,51.35329,-2.632652,Chew Stoke,Chew Stoke Brook,0.148
+Houghton Bridge,50.896759,-0.544372,Houghton,Arun,1.817
+Ashton Farm,50.690658,-2.479859,Martinstown Or Winterborne St Martin,Groundwater level,70.278
+Arnos Park,51.616543,-0.126609,Southgate,Pymmes Brook,2.643
+Perdiswell,52.217941,-2.213213,Worcester,Barbourne Brook,0.422
+Jessop Avenue Bridport,50.732383,-2.752341,Bridport,River Asker,0.113
+Broughton,52.058452,-0.704763,Broughton,Broughton Brook,0.203
+Featherstone,54.943457,-2.513542,Rowfoot,River South Tyne,0.622
+Northorpe,53.684963,-1.660794,Ravensthorpe,Spen Beck,0.156
+Station Road,53.608903,-2.109832,Milnrow,Beal,0.466
+Moyles Court,50.873976,-1.773255,Mockbeggar,Docken's Water,0.255
+Dunnabridge,50.551765,-3.916854,Hexworthy,West Dart River,0.722
+Pateley Bridge,54.085235,-1.761488,Pateley Bridge,River Nidd,0.477
+Harold Park,51.599864,0.249585,Harold Wood,Ingrebourne,1.075
+Iver Bridge,51.520714,-0.500885,Iver,Colne Brook,0.034
+Rushey Platt,51.553565,-1.803214,Swindon,Ray (Wilts),0.883
+Bolton Bridge,53.513589,-1.312304,Bolton Upon Dearne,River Dearne,0.543
+Wycombe Wye,51.635466,-0.76901,High Wycombe,Wye,0.135
+Egremont,54.482917,-3.52339,Egremont,River Ehen,0.862
+Hurn Court,50.771447,-1.822108,Hurn,Moors River,0.449
+Stratford,52.191595,-1.70123,Stratford-Upon-Avon,River Avon,0.635
+Stamfordham,55.040628,-1.873213,Stamfordham,River Pont,0.774
+Low Bentham,54.118746,-2.53947,Low Bentham,Wenning,1.015
+Hothfield Upstream,51.157688,0.815185,Hothfield,Great Stour,0.473
+Brockenhurst,50.815958,-1.550253,Balmerlawn,Lymington,0.796
+Yarkhill,52.081299,-2.563805,Yarkhill,Frome,0.425
+Greenham,50.974487,-3.313793,Greenham,River Tone,0.302
+Oaksey,51.632205,-2.007169,Oaksey,Swill Brook,0.427
+Craze Lowman,50.917501,-3.444578,Chevithorne,River Lowman,0.158
+Fenay Bridge,53.636353,-1.726911,Fenay Bridge,Fenay Beck,0.278
+Leeds Crown Point,53.794197,-1.535433,Leeds,River Aire,0.967
+Whalley Weir,53.81982,-2.413116,Whalley,River Calder,1.177
+Minns Estate,51.753242,-1.290099,Botley,Seacourt Stream,1.218
+Methley,53.726098,-1.382805,Whitwood,River Calder,1.876
+Downham Lane,51.424134,-0.003161,Grove Park,Spring Brk,0.327
+Rudheath,53.242164,-2.499533,Davenham,Dane,0.639
+Stoke Prior,52.306762,-2.076947,Stoke Prior,River Salwarpe,0.193
+Kings Lock,51.789307,-1.306931,Wolvercote,Thames,0.203
+Welton,51.290615,-2.483966,Midsomer Norton,Wellow Brook,0.13
+Buxton,53.2536,-1.904027,Buxton,River Wye,0.394
+Weycroft Bridge,50.795583,-2.98435,Axminster,River Axe,0.684
+Saxmundham,52.217851,1.492103,Saxmundham,River Fromus,1.276
+Broad Green,52.049066,0.461993,Steeple Bumpstead,Bumpstead Brook,0.116
+Copford Hall,51.955175,0.426847,Great Bardfield,River Pant,0.12
+Cuddington,51.795602,-0.944321,Cuddington,Thame,1.16
+Knighton,52.344778,-3.043943,Knighton,River Teme,0.948
+Wissey Sluice,52.55994,0.510116,Stoke Ferry,Wissey,1.836
+Cambridge,51.730432,-2.362218,Cambridge,River Cam,0.252
+Stadhampton,51.675126,-1.132094,Stadhampton,Thame,0.946
+Arborfield Bridge,51.403467,-0.933245,Shinfield,Loddon,0.48
+Codford,51.160588,-2.043272,Codford St Mary,Chitterne Brook,0.091
+Wath upon Dearne,53.50515,-1.343017,Wath upon Dearne,Brook Dike,0.277
+Didworthy,50.441465,-3.852396,Didworthy,River Avon,0.584
+Penvose,50.566809,-4.75052,St Kew Highway,River Allen,0.429
+Raymill Road,51.528985,-0.716959,Maidenhead,Maidenhead Ditch,0.208
+Marple Bridge,53.404904,-2.056058,Compstall,Goyt,0.646
+Stockdalewath,54.79619,-2.954259,Stockdalewath,Roe Beck,0.458
+Jacobstowe,50.799678,-3.999785,Jacobstowe,River Okement,0.558
+Tellisford,51.30679,-2.280873,Tellisford,Somerset Frome,1.28
+Garstang,53.896103,-2.779699,Garstang,Wyre,0.5
+Ruislip,51.58043,-0.426065,Ruislip,Pinn,0.387
+Longbridge Mill,51.3188,-1.019874,Sherfield On Loddon,Loddon,0.274
+Earith,52.354128,0.03732,Earith,River Great Ouse,1.81
+Stourton,52.461315,-2.207471,Stourton,River Stour,0.487
+Appleford Bridge,51.810408,0.674711,Rivenhall End,River Blackwater,0.449
+Lydbrook,51.85366,-2.578653,Lydbrook,Wye,2.188
+Shilmoor,55.363152,-2.180351,Shillmoor,River Usway Burn,0.167
+Hartlake Bridge,51.201686,0.330336,Golden Green,Medway,0.911
+Marlow Lock,51.567382,-0.769176,Marlow,Thames,0.085
+Kearsley,53.546445,-2.371963,Kearsley,Irwell,1.533
+North Witham,52.784469,-0.626388,North Witham,Witham,0.276
+Monkton,54.011286,-1.199598,Beningbrough,River Ouse,2.745
+Cranleigh,51.142186,-0.480399,Cranleigh,Littlemead Brook,1.474
+South Park,54.510602,-1.56287,Stapleton,River Skerne,0.357
+Bealsmill,50.570244,-4.318502,Bealsmill,River Inny,0.6
+Lealholm,54.458047,-0.824546,Lealholm,River Esk,0.251
+Fakenham,52.827359,0.847422,Fakenham,River Wensum,0.542
+Okehampton Mill Road,50.738205,-3.999871,Okehampton,East Okement River,0.268
+Partington,53.410314,-2.413046,Partington,Sinderland Brk,0.401
+Geldharts Mill,52.271031,-0.922807,Kingsthorpe,Nene - Brampton Branch,0.312
+Salfords Bridge,51.204792,-0.1677,Salfords,Salfords Stream,1.692
+Cleeve Lock,51.529995,-1.135937,Goring,Thames,0.151
+Whitford Bridge,50.752859,-3.047245,Whitford,River Axe,0.443
+Kings Ripton,52.373829,-0.149082,Kings Ripton,Bury Brook,0.147
+Active Way,53.791155,-2.247834,Burnley,River Calder,0.858
+West Luccombe,51.201053,-3.578034,West Luccombe,Horner Water,0.156
+Swanage King Georges Field St Marys Church,50.609187,-1.962716,Swanage,Swan Brook,0.07
+Bredwardine,52.096497,-2.969481,Bredwardine,Wye,2.958
+Kingston Hogsmill,51.405736,-0.302166,Kingston Upon Thames,Hogsmill,0.294
+St Andrews Bypass,52.248411,-0.907242,Northampton,Nene - Brampton Branch,0.076
+Warden Bridge End,54.988608,-2.141972,Hexham,River Tyne,0.917
+Grants Bridge,51.344527,-0.604091,Chobham,Addlestone Bourne,0.475
+Penkridge,52.727805,-2.117669,Penkridge,River Penk,1.247
+Westbourne,50.861097,-0.928616,Westbourne,Ems,0.416
+Letcombe Bassett,51.565511,-1.460667,Letcombe Bassett,Letcombe Brook,0.135
+Tisbury,51.061485,-2.080366,Tisbury,River Nadder,0.711
+Braughing,51.904243,0.020897,Braughing,Quin,0.098
+College Road,51.896062,-2.069746,Cheltenham,Chelt,0.208
+Broughton Hall,53.957753,-2.073107,Broughton,Broughton Beck,0.504
+Pickerings Cut,53.281649,-2.637784,Acton Bridge,Weaver,4.915
+Dovers Bridge,53.507328,-2.962574,Sefton,Dovers Brook,0.48
+Sturminster Marshall Maggs Bridge,50.797163,-2.083018,Sturminster Marshall,North Winterbourne,-0.041
+Trawden Brook,53.852195,-2.140021,Trawden,Trawden Brook,0.205
+Missenden,51.677124,-0.650282,Little Missenden,Misbourne,0.132
+Churchend,51.884939,0.365166,Churchend,River Chelmer,0.232
+Bromley,51.394835,0.016838,Bromley,Ravensbourne,0.134
+Blue Bridge,53.744555,-2.6615,Walton-Le-Dale,Darwen,0.653
+Currymoor PS,51.054966,-2.936065,Athelney,Currymoor Drain,0.839
+Shifnal,52.67455,-2.379329,Shifnal,Wesley Brook,0.237
+Cleckheaton Thornton Street,53.720511,-1.705167,Cleckheaton,Spen Beck,0.169
+Water Eaton,51.64017,-1.826539,Cricklade,Ray (Wilts),0
+Hazelmere Road,51.39528,0.078815,Petts Wood,Kyd Brook,0.65
+Shefford,52.040422,-0.335802,Shefford,River Flit,0.284
+Charney Bassett,51.64711,-1.451462,Charney Bassett,Ock,0.667
+Market Deeping,52.671948,-0.303639,Deeping Gate,Welland Below Peakirk,0.125
+Fornham St Martin,52.272126,0.706637,Fornham St Martin,Lark,0.169
+"Enfield, Albany Park",51.668821,-0.035081,Enfield Wash,Turkey Brook,0.289
+Bury Ground,53.598766,-2.305182,Bury,Irwell,0.632
+Llanyblodwel,52.794313,-3.110292,Llanyblodwel,River Tanat,0.863
+Wakefield Colinsway,53.678129,-1.504919,Wakefield,Ings Beck,0.416
+Wendling Beck,52.681119,0.893649,Podmore,Wendling Beck,0.296
+Somerford Keynes,51.650724,-1.973061,Somerford Keynes,Thames,1.077
+Hornby,54.109696,-2.63518,Hornby,Wenning,0.527
+Sheffield Lady's Bridge,53.385355,-1.462585,Sheffield,River Don,0.667
+Gowdall Ings,53.695235,-1.041398,Gowdall,Gowdall Ings,1.723
+"Sprint Mill, Kendal",54.358126,-2.748154,Burneside,Sprint,0.417
+Hythe Weir,51.441951,-0.535697,Hythe End,Colne Brook,0.73
+Thornborough,52.011485,-0.9309,Thornborough,River Great Ouse,0.499
+Fornalls Bridge,53.396899,-3.151606,Hoylake,Birket,0.466
+Sticklepath,50.737824,-3.917597,Sticklepath,River Taw,0.354
+Falstone,55.176863,-2.435206,Falstone,River North Tyne,0.695
+Bescot,52.560205,-1.983428,Walsall,River Tame,1.056
+Wick,51.453682,-2.430325,Wick,River Boyd,0.229
+Sunbury  Lock,51.399708,-0.4156,Sunbury,Thames,0.221
+South Church,54.649317,-1.662117,Bishop Auckland,River Gaunless,0.228
+Burton Bradstock,50.701633,-2.725949,Burton Bradstock,River Bride,0.306
+Abbey Heath,52.425882,0.720787,Abbey Heath,Little Ouse,0.322
+Boscastle Anderton Ford,50.690388,-4.632983,Boscastle,River Valency,0.179
+Walden Stubbs,53.64031,-1.168065,Walden Stubbs,River Went,0.304
+Crag Hall,55.001861,-1.604447,Gosforth,Ouse Burn,0.309
+Plympton,50.387125,-4.061716,Plympton,Long Brook,0.229
+Poynton,53.341282,-2.127615,Poynton,Poynton Brook,0.251
+Penzance Tesco,50.126751,-5.525305,Penzance,Ponsandane Stream,0.28
+Watford,51.670654,-0.380235,Watford,Colne,0.212
+Mayfield Road,51.306404,-0.772253,Cove,Cove Brook,1.102
+Shardlow,52.865431,-1.335368,Shardlow,River Trent,1.39
+Colindale,51.591209,-0.244516,Hendon,Silk Stream,0.358
+Scalehill Upper Lorton Valley,54.58069,-3.317998,Loweswater,Cocker,1.002
+Masham,54.226008,-1.654843,Masham,River Ure,0.832
+Currymoor PS,51.054966,-2.936065,Athelney,River Tone,2.888
+Irnham,52.833221,-0.460655,Hawthorpe,East Glen (To Kates Bridge),0.122
+Heaton Mill,55.674792,-2.160923,Heaton Mill,Till,0.772
+Gatwick Airport,51.144764,-0.19953,Charlwood,Mole,-32.767
+Kinnersley Manor,51.201071,-0.194473,Sidlow,Mole,2.167
+Skew Bridge   Carlisle,54.891143,-2.9382,Skew Bridge   Carlisle,River Caldew,1.038
+Dorking,51.238425,-0.311198,Dorking,Mole,0.725
+Rotherham Tesco,53.430253,-1.358801,Rotherham,River Don,0.482
+City Mill,51.061255,-1.307865,Winchester,Itchen,0.586
+Knightsford Bridge,52.198971,-2.389281,Knightwick,River Teme,1.259
+Waggon Road,53.514723,-2.038394,Mossley,Tame,1.031
+Bramshill,51.32671,-0.917374,Hazeley,Hart,0.403
+River Jordan,52.473218,-0.911988,Little Bowden,Jordan,0.122
+Westmill Bridge,51.616448,-1.666745,Watchfield,Cole,0.463
+Clyse Hole,51.136761,-2.724464,Glastonbury,River Brue,0.336
+Inglesham,51.670899,-1.700313,Upper Inglesham,Cole,0.219
+Westbrook Mill,51.188851,-0.617671,Godalming,Wey,2.029
+Buckingham,51.998052,-0.992004,Buckingham,River Great Ouse,0.243
+Knottingley Lock,53.709907,-1.22578,Knottingley,River Aire,1.689
+Arle,51.91358,-2.100884,Cheltenham,Chelt,0.52
+Sheepmount,54.90486,-2.952852,Carlisle,Eden,2.257
+Blackhall Mill,54.905964,-1.812313,Blackhall Mill,River Derwent,0.244
+Littlewood Bridge,53.670881,-2.762213,Croston,Lostock,0.944
+Southwell,53.077901,-0.934277,Southwell,River Greet,0.221
+Three Mile House,52.626317,1.699909,West End,River Bure,0.785
+Southam,52.260974,-1.408027,Bascote,River Itchen,0.297
+Shrewbridge,53.061892,-2.526064,Nantwich,Weaver,0.787
+Rowlands Gill,54.917259,-1.73922,Rowlands Gill,River Derwent,0.302
+Cassington Weir B,51.786053,-1.351198,Cassington,Evenlode,0.417
+Shalford,51.938949,0.502982,Shalford,River Pant,0.685
+Harbertonford,50.391073,-3.701021,Harbertonford,River Harbourne,-0.002
+Medbourne Flood Storage Reservoir,52.546177,-0.832027,Blaston,Medbourne Brook,0.446
+Felsted,51.847313,0.423072,Felsted,River Chelmer,0.22
+Middlehill,51.418046,-2.268627,Ashley,By Brook,0.405
+Houghton,52.330674,-0.120798,Houghton,River Great Ouse,0.173
+Iford Bridge,50.740946,-1.806054,Pokesdown,River Stour,0.533
+Kennford,50.667557,-3.538622,Kennford,RHB Trib River Kenn,0.073
+Studley,52.274092,-1.88959,Studley,River Arrow,0.718
+Callerton Lane,55.049407,-1.741713,Ponteland,River Pont,0.307
+Bishops Hull,51.019081,-3.133644,Bishops Hull,River Tone,0.199
+Culmstock,50.915853,-3.279962,Culmstock,River Culm,0.203
+Haw Bridge,51.948918,-2.227065,Apperley,River Severn,2.13
+Batley Savile Street,53.699596,-1.630383,Castleton,Batley Beck,0.345
+Poyle,51.477287,-0.51406,Poyle,Poyle Channel,1.583
+Barton Mills Sluice,52.335121,0.531859,Barton Mills,Lark,0.169
+Kirkstall Abbey,53.819613,-1.605025,Kirkstall,River Aire,1.793
+Isfield weir,50.951995,0.074349,Little Horsted,Uck,0.848
+Alconbury Weston,52.377001,-0.269421,Alconbury Weston,Alconbury Brook,0.445
+Little Bridge,53.684084,-2.331538,Helmshore,Ogden Brook,0.308
+Pangbourne,51.484688,-1.087539,Pangbourne,Pang,0.19
+Halesowen,52.462884,-2.061427,Halesowen,River Stour,0.742
+Sheepbridge,53.268853,-1.437687,Sheepbridge,River Whitting,0.304
+Woolsthorpe,52.899642,-0.758767,Woolsthorpe by Belvoir,River Devon,0.691
+Cross Hills,53.902947,-1.969516,Cross Hills,Eastburn Beck,0.528
+Wilmington,50.795699,-3.111486,Wilmington,Umborne Brook,0.298
+Brighouse,53.701444,-1.793955,Brighouse,River Calder,0.364
+Greta Bridge,54.603631,-3.142486,Keswick,River Greta,1.635
+Kings Mill,51.756247,-1.238765,Oxford,Cherwell,1.856
+Milnshaw,53.755632,-2.367683,Accrington,River Calder,0.332
+Wightwick,52.582389,-2.192192,Wightwick,Smestow Brook,0.49
+"Edgware, Deans Brook",51.617793,-0.26653,Edgware,Deans Brook,0.801
+Ramsbury Main,51.443821,-1.584692,Whittonditch,Aldbourne,
+Alscot Park,52.153735,-1.697245,Atherstone On Stour,River Stour (Warks),0.439
+Field Court Drive,51.819013,-2.28698,Quedgeley,Dimore Brook,0.049
+Causey Bridge,53.425318,-2.62207,Dallam,Sankey Brook,0.876
+Upper Elmers End,51.391876,-0.03662,Eden Park,St James Stream,0.435
+Knapp Mill,50.748085,-1.780015,Burton,River Avon,0.371
+Polesworth,52.627897,-1.613026,Polesworth,River Anker,0.331
+Newbiggin Bridge,54.853151,-2.881322,Carleton,Petteril,0.971
+Stockton Hartburn Bridge,54.54999,-1.365536,Hartburn,Hartburn Beck,0.639
+Ermington,50.363074,-3.911208,Ermington,River Erme,0.491
+Hougham,52.986895,-0.680145,Hougham,Witham,0.87
+Swaton,52.922105,-0.319165,Swaton,South Forty Foot,0.323
+Polperro,50.33114,-4.52005,Polperro,Pol River,0.151
+Gurnard,50.755479,-1.333222,Gurnard,Medina,0.398
+Lode,52.242159,0.240538,Lode,Quy Water,0.256
+Calder Hall,54.426631,-3.489083,Calder Bridge,River Calder,0.352
+Gribbleford Bridge,50.793303,-4.090425,Hatherleigh,River Lew,0.585
+Wellow,51.320458,-2.373786,Wellow,Wellow Brook,0.826
+Marshfield Bridge,53.092995,-2.488097,Wistaston Green,Valley Brook,0.354
+Crondall Pond,51.232867,-0.864146,Crondall,Hart,0.38
+Harpers Brook,52.408276,-0.556349,Lowick,Harpers Brook,0.226
+Sindlesham Mill,51.426522,-0.898188,Sindlesham,Loddon,0.342
+Diglis,52.179799,-2.225461,Worcester,River Severn,1.045
+Waterhall,51.773132,-0.117522,Birch Green,Lee,0.209
+Taplow,51.529307,-0.697199,Taplow,Jubilee River,1.651
+Ely,52.399868,0.289328,Ely,River Great Ouse,0.53
+Exford,51.132851,-3.640854,Exford,River Exe,0.515
+Wellesbourne,52.197687,-1.602579,Wellesbourne,River Dene,0.212
+Haversham,52.073044,-0.805148,Haversham,River Great Ouse,0.68
+Relubbus,50.13744,-5.406959,Relubbus,River Hayle,0.326
+Coalburn Beck,55.093478,-2.481463,Butterburn,Coal Burn,0.34
+Park Bridge,54.408693,-2.177133,West Stonesdale,River Swale,0.537
+Rowsham Bridge,51.850671,-0.772585,Rowsham,Thame,0.203
+Broomstairs Bridge,53.454585,-2.095579,Haughton Green,Tame,0.642
+Combe Martin Bowling Green Lane,51.198942,-4.025648,Combe Martin,River Umber,0.149
+Redbourn  River Ver,51.794792,-0.393076,Redbourn,Ver,-0.133
+Churchill Avenue,51.808843,-0.823619,Aylesbury,Southcourt Brook,0.737
+Corpusty,52.830878,1.126258,Corpusty,River Bure,0.159
+Marefield,52.675277,-0.888192,Twyford,Gaddesby Brook,1.031
+Flint Mill,53.920115,-1.358935,Wetherby,River Wharfe,1.131
+Louth,53.37106,0.008655,Keddington,Lud,0.162
+Holwell,51.203198,-2.389554,Nunney,Nunney Brook,0.91
+Worsham,51.793689,-1.564378,Charterville Allotments,Windrush,0.537
+Snainton Ings,54.202353,-0.566177,Brompton,Brompton Beck,0.122
+Sheering Hall,51.792981,0.16688,Churchgate Street,Pincey Brook,0.177
+Dotton,50.688326,-3.294258,Colaton Raleigh,River Otter,0.316
+Blyth,53.377166,-1.053244,Blyth,River Ryton,0.703
+Mordiford,52.026391,-2.629867,Mordiford,Wye,2.67
+Sicklesmere,52.212963,0.746693,Sicklesmere,Lark,0.391
+Swill Bridge,51.177714,-3.305414,Doniford,Doniford Stream,0.295
+Wearhead,54.753822,-2.225251,Wearhead,Killhope Burn,0.235
+Bourne End Wye,51.571155,-0.708557,Bourne End,Wye,0.162
+Mexborough Lock,53.495204,-1.244769,Mexborough,River Don,1.05
+Burpham,51.264494,-0.544883,Burpham,Merrow Common Stream,0.884
+Setchey Bridge,52.694217,0.419367,West Winch,Nar,0.432
+Grafton Lock,51.690894,-1.607898,Eaton Hastings,Thames,0.101
+Chandler's Ford,50.983422,-1.382474,Chandler's Ford,Monks Brook,
+Bastreet,50.560822,-4.480182,Trebartha,Withy Brook,0.432
+Sharnbrook,52.219934,-0.521475,Sharnbrook,River Great Ouse,0.433
+Bewdley,52.383563,-2.322438,Bewdley,River Severn,2.016
+Tallington,52.656869,-0.382584,Tallington,Welland (Stamford - Peakirk),0.449
+Stapleford,52.141965,0.148004,Stapleford,River Granta,0.142
+Three Bridges,51.116941,-0.162605,Three Bridges,Gatwick Stream,0.857
+Went Bridge,53.650296,-1.262804,Went Bridge,River Went,0.614
+Wilton,51.076368,-1.862567,Wilton,River Nadder,0.201
+Glenridding Steamer Pier,54.554175,-2.944347,Glenridding,Lake Ullswater,1.368
+Gisburn,53.942277,-2.272495,Gisburn,Ribble,0.599
+Denby,50.479642,-4.795638,Denby,River Camel,0.807
+Holmbridge,53.556892,-1.819474,"Pickering, Ings Bridge",River Holme,0.408
+Quixhill,52.976338,-1.86056,Denstone,River Churnet,0.568
+Allington Lock,51.295161,0.507204,Sandling,Medway,0.182
+Low Moor,54.488525,-1.439612,Low Dinsdale,River Tees,1.072
+Malton,54.133301,-0.795495,Malton,River Derwent,1.779
+Bramley,51.206896,-0.57032,Shalford,Cranleigh Waters,2.548
+Wye,51.184588,0.930529,Wye,Great Stour,0.326
+Wandle Park Main Channel,51.419659,-0.18127,Merton,Wandle,0.42
+Eastbury,51.490876,-1.500149,Eastbury,Lambourn,
+Newnham Bridge,52.32,-2.523849,Newnham Bridge,River Rea (Teme),0.959
+Turvey,52.160107,-0.63018,Turvey,River Great Ouse,0.328
+South Creake,52.884248,0.770921,South Creake,River Burn,0.091
+Idless Dam,50.284843,-5.057324,Idless,River Allen (downstream),0.186
+"Uxbridge, Fountains Mill",51.549497,-0.482704,Uxbridge,Frays,0.672
+Fosters Bridge,52.616269,-0.582013,South Luffenham,Chater,0.287
+Passenham,52.049192,-0.852318,Stony Stratford,River Great Ouse,2.07
+Mytholmroyd Dauber Bridge,53.722779,-1.989756,Mytholmroyd,Cragg Brook,0.312
+Birkin Holme Washlands,53.731594,-1.147332,Broomfleet Weighton Lock,River Aire,0.775
+Colsterworth,52.810944,-0.623165,Woolsthorpe-By-Colsterworth,Witham,0.189
+Stisted,51.888352,0.603806,Stisted,River Blackwater,0.238
+Holymoorside,53.219025,-1.493093,Holymoorside,River Hipper,0.156
+Prestbury Road,51.907359,-2.061419,Cheltenham,Wymans Brook,0.022
+Great Musgrave Bridge,54.512818,-2.364477,Great Musgrave,Eden,0.539
+Eaton Socon,52.21309,-0.281653,Eaton Socon,River Great Ouse,0.053
+Gosforth,55.017771,-1.614378,Gosforth,Ouse Burn,0.582
+Littlethorpe,52.571268,-1.201273,Littlethorpe,River Soar,0.888
+Sonning Lock,51.473138,-0.917727,Sonning,Thames,0.184
+Edmonton Green,51.626104,-0.060318,Edmonton,Salmon Brook,0.354
+Hooke,50.796871,-2.656876,Hooke,River Hooke,0.197
+Sunderland Bridge,54.734468,-1.589972,Sunderland Bridge,River Wear,0.672
+Powerstock,50.761735,-2.688328,Powerstock,Mangerton Brook,0.094
+Hadlow,51.222555,0.334684,Hadlow,Bourne Tributary  Medway,0.751
+Boscastle County Bridge,50.68979,-4.692972,Boscastle,River Valency,0.461
+Catterall,53.866048,-2.811986,St Michael's On Wyre,Wyre,-1.319
+Team Valley,54.92056,-1.612265,Lamesley,River Team,0.276
+Carnwood,50.431671,-4.083069,Bickleigh,River Plym,0.514
+Moorhouse,54.695931,-2.376978,Moorhouse,Trout Beck,0.233
+Rocester,52.95455,-1.833986,Rocester,River Dove,0.578
+Umberleigh,50.99542,-3.985089,Umberleigh,River Taw,0.743
+Wilmslow,53.330096,-2.227133,Wilmslow,Bollin,0.498
+Catterick Bridge,54.388672,-1.653481,Catterick Bridge,River Swale,0.857
+Locks Weir,54.084353,-2.280457,Stackhouse,Ribble,0.388
+Dauntsey,51.536448,-2.004702,Dauntsey,Dauntsey Brook,0.314
+Sedgeberrow,52.04668,-1.963362,Sedgeberrow,River Isbourne,0.429
+Loxley Rowell Bridge,53.401832,-1.547627,Loxley,River Loxley,0.118
+Southwaite Bridge,54.640395,-3.34813,Cockermouth,Cocker,0.899
+Pocklington,53.933016,-0.774873,Hessle,Pocklington Beck,0.049
+Milton on Stour,51.053771,-2.289853,Milton On Stour,River Stour,
+"Hillingdon, Gutteridge Wood",51.547719,-0.420185,Hillingdon,Yeading Brook West,0.802
+Cowbridge,53.007414,-0.020733,Cowbridge,Maud Foster/Stonebridge Drain,0.52
+Eckington Sluice,52.062065,-2.124922,Eckington,River Avon,2.176
+Uplyme,50.735862,-2.955096,Uplyme,Lim,0.022
+"Steamer Pier, Pooley Bridge",54.610449,-2.82694,"Steamer Pier, Pooley Bridge",Lake Ullswater,2.149
+Tiverton Lowman,50.904593,-3.479351,Tiverton,River Lowman,
+ALFOLDEAN GS,51.086792,-0.406225,Horsham,Arun,-20.223
+Newark Weir,51.307409,-0.510113,Newark,Wey,20.5
+Watson Terrace,54.667281,-2.757052,"Townhead, Penrith",Thacka Beck,0.292
+"Station Road, Wigton",54.827452,-3.162746,Wigton,Wiza Beck,0.443
+Brandy Wharf,53.460884,-0.474196,Brandy Wharf,Ancholme,0.005
+Wootton Fitzpaine,50.749836,-2.903287,Wootton Fitzpaine,Gwyle,0.337
+Brinkworth Brook,51.546208,-1.944367,Royal Wootton Bassett,Brinkworth Brook,0.761
+Loverley Farm,50.876605,-1.99157,Moor Crichel,River Allen,0.67
+Chew Magna Level,51.36697,-2.621881,Chew Magna,Winford Brook,0.154
+Bardney,53.213749,-0.345212,Bardney,Witham,0.644
+Sheffield Sheaf Screen,53.373959,-1.463059,Missing Data,River Sheaf,0.292
+Apperley Bridge,53.837637,-1.706351,Missing Data,River Aire,0.715
+Malinbridge,53.40368,-1.495054,Missing Data,River Loxley,0.52
+Rother Valley Lake,53.33017,-1.322509,Missing Data,Rother Washlands,0.278
+Hexham,54.976253,-2.095184,Hexham,River Tyne,31.842
+Eddys Bridge,54.851887,-1.937552,Muddleswick,Derwent (Northumbria),0.328
+West Holme Washlands,53.721659,-1.209849,Missing Data,Aire Washlands,0.38
+Oxenhope,53.808702,-1.948901,Missing Data,Bridgehouse Beck,0.088
+Girton,52.243719,0.07758,Girton,Washpit Brook,0.844
+Oakington,52.255096,0.055885,Oakington,Beck Brook,0.184
+Wardropers,51.644879,0.396505,Billericay,River Wid,0.382
+Middlesbrough Ormesby Hall,54.544678,-1.19878,Middlesbrough,Ormesby Beck,0.068
+Upwey,50.665744,-2.480878,Upwey,River Wey,0.228
+Ruskington Beck,53.048222,-0.396166,Ruskington,Ruskington Beck,0.252
+Tickton PS,53.86754,-0.367529,Tickton PS,Holderness drain,-1.751
+Whitbarrow Close,54.33056,-2.721958,Kendal,Stock Beck,0.082
+Egypt Mill,51.697359,-2.175147,Nailsworth,River Frome,0.432
+Pawston,55.593513,-2.232993,Pawston,Bowmont Water,0.424
+Hempholme PS,53.929542,-0.334541,Hempholme PS,Roam Drain,-0.259
+Hessle Western Drain,53.734403,-0.435579,Hessle Western Drain,Fleet Drain,-0.043
+Norlands Lane FD,51.410875,-0.515797,Norlands Lane FD,Meadlake Ditch,0.515
+Marsh Road Sluice,52.799742,-0.132532,Spalding,Welland Below Peakirk,1.395
+Eastbury Flood Control Structure,51.497183,-1.511619,Eastbury,Lambourn,0.996
+Buckfastleigh,50.482427,-3.783081,Buckfasteligh,River Mardle,0.199
+Tiverton Parkway,50.918719,-3.35971,Tiverton Parkway,Spratford Stream,0.284
+Easton,51.088829,-1.2729,Easton,Itchen,0.579
+Newtown Linford,52.683384,-1.230147,Newtown Linford,River Lin,1.028
+Crabble Mill,51.140192,1.287219,Dover,River Dour,0.18
+Birstall Smithies,53.727802,-1.661253,Missing Data,Batley Beck,0.064
+Black Bull Road,51.085655,1.177662,Folkestone,Pent Stream,0.097
+Bondend Road,51.834606,-2.193371,Gloucester,Twyver,0.292
+Hucclecote,51.857643,-2.180344,Gloucester,Horsbere Brook,0.193
+Sandhurst Horn's Ditch,51.888033,-2.253216,Maisemore,River Severn,0.566
+Cheyney Close,51.848593,-2.220433,Gloucester,Sud Brook,0.07
+India Road,51.856617,-2.227456,Gloucester,Twyver,0.209
+Puxton,52.394519,-2.253581,Kidderminster,River Stour (Worcs),1.414
+Brearley,53.729568,-1.961304,Missing Data,River Calder,0.626
+Chesterfield Ashgate,53.242734,-1.453673,Missing Data,River Holme,0.076
+Hensall Ings,53.709879,-1.081836,Missing Data,Wheelan Dyke,-0.541
+Chesterfield St Augustines,53.225424,-1.425584,Missing Data,River Rother,0.27
+Keighley Dalton Lane,53.869559,-1.894095,Missing Data,River Worth,0.061
+Wrenthorpe,53.691537,-1.517695,Missing Data,Balne Beck,0.511
+Whiston Brook,53.407069,-1.319287,Missing Data,Whiston Brook,0.106
+Topham Ferry Bridge,53.649282,-1.06356,Missing Data,River Went,1.08
+Tumbling Bay Weir DS,51.809124,-0.023037,Ware,Amwell Loop,30.369
+Shipley,53.833276,-1.771688,Missing Data,Bradford Beck,0.282
+Littlestock Brook (Temporary),51.865237,-1.618104,Milton-Under-Wychwood,Evenlode,0.097
