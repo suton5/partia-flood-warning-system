@@ -4,4 +4,8 @@ pipelines:
   default:
     - step:
         script:
+          # Install required packages
+          - pip install pytest
+
+          # Run tests
           - python -m pytest -v .
