@@ -22,12 +22,14 @@ def dump(data, filename):
     """Save JSON object to file"""
     f = open(filename, 'w')
     data = json.dump(data, f)
+    f.close()
 
 
 def load(filename):
     """Load JSON object from file"""
     f = open(filename, 'r')
     data = json.load(f)
+    f.close()
     return data
 
 

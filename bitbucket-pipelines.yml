@@ -1,0 +1,11 @@
+image: python:3.6
+
+pipelines:
+  default:
+    - step:
+        script:
+          # Install packages required to run code
+          - pip install dateutils pytest requests
+
+          # Run tests
+          - python -m pytest -v .
